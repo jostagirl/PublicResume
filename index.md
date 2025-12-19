@@ -1,5 +1,6 @@
 ---
 title: Anna Bellizzi | Resume
+css: /PublicResume/assets/style.css
 ---
 <!--
 ## Anna B.
@@ -80,3 +81,8 @@ Hardware-software systems integration specialist with 13+ years of hands-on expe
 - Provided Tier 2 technical support and troubleshooting across software, data, and network layers in time-sensitive operational environments.
 - Maintained and supported internal IT systems, network infrastructure, and hosted services used by engineering, operations, and support teams.
 - Assisted with system migrations and platform transitions while maintaining data integrity and service uptime.
+
+
+
+[LinkedIn](https://www.linkedin.com/in/your-handle) ·
+[GitHub](https://github.com/jostagirl)
