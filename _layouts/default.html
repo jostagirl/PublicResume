@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{ page.title | escape }}</title>
+    <style>
+      body { font-family: system-ui, Arial, sans-serif; line-height: 1.45; color: #111; }
+      .wrap { max-width: 980px; margin: 0 auto; padding: 28px 16px; display: grid; grid-template-columns: 240px 1fr; gap: 28px; }
+      .side { position: sticky; top: 16px; align-self: start; border: 1px solid #e5e5e5; border-radius: 12px; padding: 14px; }
+      .side a, .side button { display: block; width: 100%; text-align: left; padding: 10px 10px; margin: 8px 0; border-radius: 10px; border: 1px solid #ddd; background: #fff; cursor: pointer; text-decoration: none; color: inherit; }
+      .side a:hover, .side button:hover { background: #f6f6f6; }
+      .content { min-width: 0; }
+      @media (max-width: 860px) { .wrap { grid-template-columns: 1fr; } .side { position: static; } }
+      @media print {
+        .side { display: none; }
+        .wrap { display: block; padding: 0; }
+        a[href]:after { content: ""; }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="wrap">
+      <aside class="side" aria-label="Resume links">
+        <a href="{{ page.linkedin | default: 'https://www.linkedin.com/' }}" target="_blank" rel="noopener">LinkedIn</a>
+        <a href="{{ page.github | default: 'https://github.com/' }}" target="_blank" rel="noopener">GitHub</a>
+        <button type="button" onclick="window.print()">Download PDF</button>
+      </aside>
+
+      <article class="content">
+        {{ content }}
+      </article>
+    </main>
+  </body>
+</html>
