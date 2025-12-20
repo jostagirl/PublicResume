@@ -1,3 +1,8 @@
+This repository publishes a resume at https://resume.annabellizzi.com.
+
+The README is for repository context only.
+
+
 Cloudflare is handling DNS. login with Google.
 
 Squarespace is Domain Registrar for annabellizzi.com
