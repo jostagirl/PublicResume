@@ -86,5 +86,5 @@ Hardware-software systems integration specialist with 13+ years of hands-on expe
 
 
 
-[LinkedIn](https://www.linkedin.com/in/your-handle) ·
+[LinkedIn](https://www.linkedin.com/in/anna-bellizzi/) ·
 [GitHub](https://github.com/jostagirl)
