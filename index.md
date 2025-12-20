@@ -8,6 +8,8 @@ Email: **Anna.L.Bellizzi@gmail.com**
 Phone: 415-203-7508  
 LinkedIn: https://www.linkedin.com/in/anna-bellizzi/
 -->
+***Updated December 2025***
+
 ---
 #### Professional Summary
 Hardware-software systems integration specialist with 13+ years of hands-on experience supporting, validating, and troubleshooting complex technical products where reliability, timing, and real-world performance matter. Strong background in hardware-software interaction, system configuration, and pre-deployment validation across integrated hardware, firmware, and software components. Known for providing clear documentation, repeatable testing practices, and steady engineering support that helps teams ship dependable systems and maintain long-term product stability.
