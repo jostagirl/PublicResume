@@ -1,4 +1,3 @@
-
 ---
 title: Anna Bellizzi | Resume
 css: /PublicResume/assets/style.css
