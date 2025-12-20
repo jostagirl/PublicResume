@@ -80,6 +80,3 @@ Seasoned Technical Support and Systems Integration professional with 13+ years o
 - Demonstrated aptitude for learning new technologies and applying them effectively.  
 - Strong interest in expanding knowledge of cloud infrastructure, observability, and security best practices.  
 - Recognized for creating repeatable processes, documentation, and tools that improve operational efficiency and customer confidence.
-
-[LinkedIn](https://www.linkedin.com/in/anna-bellizzi/) ·
-[GitHub](https://github.com/jostagirl)
