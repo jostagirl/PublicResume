@@ -1,6 +1,9 @@
 ---
-title: Anna Bellizzi | Resume
+layout: default
 css: /PublicResume/assets/style.css
+title: Anna Bellizzi | Resume (Grass Valley)
+linkedin: https://www.linkedin.com/in/YOUR-HANDLE/
+github: https://github.com/jostagirl
 ---
 <!--
 ## Anna B.
