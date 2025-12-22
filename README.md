@@ -1,3 +1,6 @@
+This repository is generated from a private source repository.
+Edits here may be overwritten.
+
 This repository publishes a resume at https://resume.annabellizzi.com.
 
 The README is for repository context only.
