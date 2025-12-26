@@ -71,11 +71,8 @@ Seasoned Technical Support and Systems Integration professional with 13+ years o
 
 ### Education & Certifications
 **BS, Computer Science | California State University, Monterey Bay | 2023**  
-
 **BA, Journalism | Hawaii Pacific University | 2003**  
-
 **Mechatronics Certification | Sierra College | 2017**  
-
 **Electro-Mechanical Skills Certification | Sierra College | 2012**
 
 ## Additional Information
