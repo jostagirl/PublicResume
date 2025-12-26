@@ -61,18 +61,21 @@ Seasoned Technical Support and Systems Integration professional with 13+ years o
 - Collaborated with engineering and operations teams to refine integration workflows and ensure smooth commissioning.
 
 ### Projects & Initiatives
-- **AI Council Member | AEM | 2025 – Present**   
+**AI Council Member | AEM | 2025 – Present**   
   - Develop internal guidance, workshops, and documentation to optimize operational processes and team productivity.  
 
-- **System Recovery & Upgrade Initiative | High Sierra Electronics, Inc. | Apr 2024 – Mar 2025**  
+**System Recovery & Upgrade Initiative | High Sierra Electronics, Inc. | Apr 2024 – Mar 2025**  
   - Coordinated system recovery and upgrades for 400+ Low Water Crossing (LWC) sites.  
   - Analyzed system performance, conducted database cleanup, and developed data-driven repair priorities.  
   - Planned and executed hardware upgrades and network infrastructure updates, delivering data-driven field deployment plans for efficency
 
 ### Education & Certifications
 - **BS, Computer Science | California State University, Monterey Bay | 2023**  
+
 - **BA, Journalism | Hawaii Pacific University | 2003**  
+
 - **Mechatronics Certification | Sierra College | 2017**  
+
 - **Electro-Mechanical Skills Certification | Sierra College | 2012**
 
 ## Additional Information
