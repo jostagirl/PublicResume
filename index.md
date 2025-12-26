@@ -70,13 +70,13 @@ Seasoned Technical Support and Systems Integration professional with 13+ years o
   - Planned and executed hardware upgrades and network infrastructure updates, delivering data-driven field deployment plans for efficency
 
 ### Education & Certifications
--**BS, Computer Science | California State University, Monterey Bay | 2023**  
+**BS, Computer Science | California State University, Monterey Bay | 2023**  
 
--**BA, Journalism | Hawaii Pacific University | 2003**  
+**BA, Journalism | Hawaii Pacific University | 2003**  
 
--**Mechatronics Certification | Sierra College | 2017**  
+**Mechatronics Certification | Sierra College | 2017**  
 
--**Electro-Mechanical Skills Certification | Sierra College | 2012**
+**Electro-Mechanical Skills Certification | Sierra College | 2012**
 
 ## Additional Information
 - Proven track record of leading complex technical support operations and cross-functional collaborations.  
