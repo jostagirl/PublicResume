@@ -19,7 +19,7 @@ Hardware-software systems integration specialist with 13+ years of hands-on expe
 #### Core Technical Focus
 <u>Systems Integration & Validation</u>
 - Hardware-software integration for time-sensitive technical systems
-- Pre-deployment configuration, validation, and verification
+- Supporting integration and validation of software-controlled hardware systems in lab and pre-release environments
 - Release readiness support across hardware, firmware, and software
 - Identifying root causes of integration failures through systematic cross-layer troubleshooting
 
@@ -32,7 +32,7 @@ Hardware-software systems integration specialist with 13+ years of hands-on expe
 <u>Configuration, Testing & QA</u>
 - Development and execution of repeatable test procedures
 - Validation against engineering requirements and specifications
-- Supporting regression following firmware, hardware, or configuration changes
+- Supporting regression testing following firmware, hardware, or configuration changes
 - Configuration management and control software interaction
 
 <u>Technical Documentation & Engineering Support</u>
@@ -47,7 +47,7 @@ Hardware-software systems integration specialist with 13+ years of hands-on expe
 **Python:** scripting for data inspection, troubleshooting, and verification of system behavior  
 **Java:** foundational programming knowledge from formal computer science coursework  
 **Operating Environments:** Linux OS fundamentals; Windows-based engineering environments  
-**Development Tools:** Git version control; familiarity with SVN; Visual Studio Code and familiarity with Visual Studio and Eclipse IDE  
+**Development Tools:** Git version control; familiarity with SVN; working familiarity with Visual Studio Code and Eclipse IDE  
 **Systems & Networking:** working knowledge of TCP/IP networking in device and system integration contexts  
 **Virtualization:** hands-on experience supporting software platforms hosted on VMware virtual machines  
 **Workflow & Collaboration:** familiarity with issue tracking and agile workflows (e.g., Jira)  
