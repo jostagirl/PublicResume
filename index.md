@@ -61,7 +61,7 @@ Seasoned Technical Support and Systems Integration professional with 13+ years o
 - Collaborated with engineering and operations teams to refine integration workflows and ensure smooth commissioning.
 
 ### Projects & Initiatives
-**AI Council Member | AEM | 2025 – Present**   
+**AI Council Member | AEM | 2025**   
   - Develop internal guidance, workshops, and documentation to optimize operational processes and team productivity.  
 
 **System Recovery & Upgrade Initiative | High Sierra Electronics, Inc. | Apr 2024 – Mar 2025**  
