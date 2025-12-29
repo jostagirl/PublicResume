@@ -8,7 +8,7 @@ css: /PublicResume/assets/style.css
 Nevada City, CA<br/>
 <a href="https://www.linkedin.com/in/anna-bellizzi/">linkedin.com/in/anna-bellizzi</a> | Anna.L.Bellizzi@gmail.com | 415-203-7508
 
-***Updated December 2025***
+<div class="resume-updated-sticky"><b>Updated December 2025</b></div>
 
 ---
 

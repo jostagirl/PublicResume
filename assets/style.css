@@ -17,3 +17,19 @@ ul {
     font-size: 11pt;
   }
 }
+.resume-updated-sticky{
+  position: fixed;
+  left: 16px;
+  right: 16px;
+  bottom: 10px;
+  font-size: 0.85em;
+  color: #444;
+  text-align: right;
+  pointer-events: none;
+  opacity: 0.85;
+}
+@media print{
+  .resume-updated-sticky{
+    display: none;
+  }
+}
