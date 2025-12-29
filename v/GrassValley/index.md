@@ -14,33 +14,34 @@ https://www.linkedin.com/in/anna-bellizzi/
 #### Professional Summary
 Hardware-software systems integration specialist with 13+ years of hands-on experience supporting, validating, and troubleshooting complex technical products where reliability, timing, and real-world performance matter. Strong background in hardware-software interaction, system configuration, and pre-deployment validation across integrated hardware, firmware, and software components. Known for providing clear documentation, repeatable testing practices, and steady engineering support that helps teams ship dependable systems and maintain long-term product stability.
 
-#### Core Technical Focus
-###### Systems Integration & Validation
+---
 
+#### Core Technical Focus
+<u>Systems Integration & Validation</u>
 - Hardware-software integration for time-sensitive technical systems
 - Pre-deployment configuration, validation, and verification
 - Release readiness support across hardware, firmware, and software
 - Identifying root causes of integration failures through systematic cross-layer troubleshooting
 
-###### Hardware & Embedded Foundations
-
+<u>Hardware & Embedded Foundations</u>
 - Mechatronics and electro-mechanical systems fundamentals
 - Bench testing and validation of integrated hardware components
 - Working knowledge of embedded hardware behavior and configuration dependencies
 - Support of hardware refreshes and component obsolescence
 
-###### Configuration, Testing & QA
-
+<u>Configuration, Testing & QA</u>
 - Development and execution of repeatable test procedures
 - Validation against engineering requirements and specifications
 - Supporting regression following firmware, hardware, or configuration changes
 - Configuration management and control software interaction
 
-###### Technical Documentation & Engineering Support
+<u>Technical Documentation & Engineering Support</u>
 - Clear, structured technical documentation tied to engineering changes
 - Release notes, procedures, and validation documentation
 - Cross-functional support for engineering, manufacturing, and operations
 - Translating complex technical behavior into usable operational guidance
+
+---
 
 #### Technical Tools and Foundations
 - **Python:** scripting for data inspection, troubleshooting, and verification of system behavior
@@ -51,6 +52,8 @@ Hardware-software systems integration specialist with 13+ years of hands-on expe
 - **Virtualization:** hands-on experience supporting software platforms hosted on VMware virtual machines
 - **Workflow & Collaboration:** familiarity with issue tracking and agile workflows (e.g., Jira)
 - **Testing & Diagnostics:** bench testing, configuration utilities, log inspection, and regression validation support
+
+---
 
 #### Experience
 **Advanced Environmental Monitoring (AEM)**
@@ -85,12 +88,16 @@ Hardware-software systems integration specialist with 13+ years of hands-on expe
 - Maintained and supported internal IT systems, network infrastructure, and hosted services used by engineering, operations, and support teams.
 - Assisted with system migrations and platform transitions while maintaining data integrity and service uptime.
 
+---
+
 #### **EDUCATION**
 - **B.S., Computer Science** — California State University, Monterey Bay   
 - **Mechatronics Certificate** — Sierra College  
 - **Electro-Mechanical Skills Certificate** — Sierra College
 - **B.A., Journalism** — Hawaii Pacific University 
 
+---
+
 #### **AWARDS**
-##### **Best Overall Capstone — CSU Monterey Bay Computer Science Degree Program**  
+<u><b>Best Overall Capstone — CSU Monterey Bay Computer Science Degree Program</b></u>
 Recognized for developing a PTZ camera integration system supporting emergency road safety and public works monitoring.
