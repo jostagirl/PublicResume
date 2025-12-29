@@ -5,6 +5,7 @@ css: /PublicResume/assets/style.css
 ## Anna Bellizzi
 Hardware-Software Systems Integration Specialist  
 Nevada City, CA 
+
 https://www.linkedin.com/in/anna-bellizzi/
 
 ***Updated December 2025***
