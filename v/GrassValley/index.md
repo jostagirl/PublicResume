@@ -56,9 +56,9 @@ Hardware-software systems integration specialist with 13+ years of hands-on expe
 ---
 
 #### Experience
-**Advanced Environmental Monitoring (AEM)**  
-*Parent company of High Sierra Electronics*
-***Integration Specialist (HSE SME) | Hybrid / Remote | Oct 2023 – Present***
+**Advanced Environmental Monitoring (AEM)** ***Integration Specialist (HSE SME)***  
+*Parent company of High Sierra Electronics*  
+***Hybrid / Remote in Nevada City | Oct 2023 – Present***
 
 - Support validation, release readiness, and system stability for integrated hardware, firmware, and software components supporting large-scale deployed systems.
 - Perform pre-deployment configuration, verification, and validation to ensure reliable system behavior prior to release and field updates.
@@ -68,8 +68,8 @@ Hardware-software systems integration specialist with 13+ years of hands-on expe
 - Build Python-based tooling to support validation workflows, data inspection, and repeatable analysis used during testing and troubleshooting.
 - Collaborate closely with engineering, manufacturing, and support teams to ensure system changes are well-documented, validated, and operationally understood prior to release.
 
-**High Sierra Electronics, Inc.**
-***Systems Integration Specialist (Technical Lead) | Grass Valley, CA | May 2017 – Oct 2023***
+**High Sierra Electronics, Inc.** ***Systems Integration Specialist (Technical Lead)***  
+***Grass Valley, CA | May 2017 – Oct 2023***
 
 - Led hardware-software integration and validation for complex sensor-based systems, serving as the technical authority for configuration, testing, and deployment readiness.
 - Conducted comprehensive bench testing and validation of sensors, controllers, firmware, and network components prior to shipment, improving first-time installation success by approximately 75%.
@@ -80,8 +80,8 @@ Hardware-software systems integration specialist with 13+ years of hands-on expe
 - Led a hardware refresh initiative addressing component obsolescence, identifying and validating drop-in replacements and producing updated integration procedures.
 - Provided technical documentation, release notes, and procedural guidance supporting production, deployment, and long-term system support.
 
-**High Sierra Electronics, Inc.**
-***Data Services Technician | Grass Valley, CA | Sep 2012 – May 2017***
+**High Sierra Electronics, Inc.** ***Data Services Technician***  
+***Grass Valley, CA | Sep 2012 – May 2017***
 
 - Supported mission-critical data services and hosted systems, ensuring continuous availability and reliable system operation for customer-facing platforms.
 - Provided Tier 2 technical support and troubleshooting across software, data, and network layers in time-sensitive operational environments.
