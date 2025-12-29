@@ -5,9 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{{ page.title | escape }}</title>
 
-    {% if page.css %}
-<link rel="stylesheet" href="{{ page.css | relative_url }}">
-{% endif %}
+<link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 
     <style>
       body { font-family: system-ui, Arial, sans-serif; line-height: 1.45; color: #111; }

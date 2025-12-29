@@ -1,6 +1,5 @@
 ---
 title: Anna Bellizzi | Resume
-css: /PublicResume/assets/style.css
 ---
 <h2>Anna Bellizzi</h2>
 

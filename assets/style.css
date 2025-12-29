@@ -27,9 +27,10 @@ ul {
   text-align: right;
   pointer-events: none;
   opacity: 0.85;
+  z-index: 10;
 }
 @media print{
   .resume-updated-sticky{
-    display: none;
+    display: none !important;
   }
 }
