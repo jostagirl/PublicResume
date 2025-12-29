@@ -44,14 +44,14 @@ Hardware-software systems integration specialist with 13+ years of hands-on expe
 ---
 
 #### Technical Tools and Foundations
-- **Python:** scripting for data inspection, troubleshooting, and verification of system behavior
-- **Java:** foundational programming knowledge from formal computer science coursework
-- **Operating Environments:** Linux OS fundamentals; Windows-based engineering environments
-- **Development Tools:** Git version control; familiarity with SVN; Visual Studio Code and familiarity with Visual Studio and Eclipse IDE
-- **Systems & Networking:** working knowledge of TCP/IP networking in device and system integration contexts
-- **Virtualization:** hands-on experience supporting software platforms hosted on VMware virtual machines
-- **Workflow & Collaboration:** familiarity with issue tracking and agile workflows (e.g., Jira)
-- **Testing & Diagnostics:** bench testing, configuration utilities, log inspection, and regression validation support
+**Python:** scripting for data inspection, troubleshooting, and verification of system behavior
+**Java:** foundational programming knowledge from formal computer science coursework
+**Operating Environments:** Linux OS fundamentals; Windows-based engineering environments
+**Development Tools:** Git version control; familiarity with SVN; Visual Studio Code and familiarity with Visual Studio and Eclipse IDE
+**Systems & Networking:** working knowledge of TCP/IP networking in device and system integration contexts
+**Virtualization:** hands-on experience supporting software platforms hosted on VMware virtual machines
+**Workflow & Collaboration:** familiarity with issue tracking and agile workflows (e.g., Jira)
+**Testing & Diagnostics:** bench testing, configuration utilities, log inspection, and regression validation support
 
 ---
 
@@ -91,10 +91,10 @@ Hardware-software systems integration specialist with 13+ years of hands-on expe
 ---
 
 #### **EDUCATION**
-- **B.S., Computer Science** — California State University, Monterey Bay   
-- **Mechatronics Certificate** — Sierra College  
-- **Electro-Mechanical Skills Certificate** — Sierra College
-- **B.A., Journalism** — Hawaii Pacific University 
+**B.S., Computer Science** — California State University, Monterey Bay   
+**Mechatronics Certificate** — Sierra College  
+**Electro-Mechanical Skills Certificate** — Sierra College
+**B.A., Journalism** — Hawaii Pacific University 
 
 ---
 
