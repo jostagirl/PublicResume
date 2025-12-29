@@ -2,11 +2,11 @@
 title: Anna Bellizzi | Resume
 css: /PublicResume/assets/style.css
 ---
-## Anna Bellizzi
-Hardware-Software Systems Integration Specialist  
-Nevada City, CA 
+<h2>Anna Bellizzi</h2>
 
-https://www.linkedin.com/in/anna-bellizzi/
+<strong>Hardware-Software Systems Integration Specialist</strong><br/>
+Nevada City, CA<br/>
+<a href="https://www.linkedin.com/in/anna-bellizzi/">linkedin.com/in/anna-bellizzi</a> | Anna.L.Bellizzi@gmail.com | 415-203-7508
 
 ***Updated December 2025***
 
