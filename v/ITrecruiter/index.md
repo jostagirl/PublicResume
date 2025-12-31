@@ -75,7 +75,7 @@ Systems-focused IT professional with 13+ years of experience supporting and main
 ***Hybrid / Remote in Nevada City, CA | Oct 2023 – Present***
 
 - Support integration and validation of distributed systems across hardware, firmware, software, and cloud components.
-- Use Python and data analysis to troubleshoot system issues and reduce manual diagnostic effort by 25–30%.
+- Use Python for data analysis to troubleshoot system issues,  reducing manual diagnostic effort by 25–30%.
 - Develop and maintain system test procedures, validation workflows, and operational documentation.
 - Collaborate with engineering, support, and customer teams to resolve complex technical issues.
 - Provide technical support for hosted platforms, data pipelines, and configuration workflows.
@@ -107,8 +107,6 @@ Systems-focused IT professional with 13+ years of experience supporting and main
 - Monitored uptime and troubleshot network issues including DHCP conflicts, IP collisions, and ISP outages.
 - Configured firewalls, routers, port forwarding, and DMZs for testing and NTCIP-compliant systems.
 - Created system documentation and trained staff on system usage and security awareness.
-
-
 
 ---
 
