@@ -98,20 +98,16 @@ Systems-focused IT professional with 13+ years of experience supporting and main
 ***Grass Valley, CA | Sep 2012 – May 2017***
 
 - Served as primary systems administrator for a 50-person organization, stabilizing on-prem infrastructure after security incidents and outages.
-- Administered Windows Server environments including Active Directory, DNS, DHCP, Group Policy, file services, and print services.
-- Managed full user lifecycle: onboarding, offboarding, password resets, account cleanup, and domain joins.
-- Led migration from Windows Workgroup to Active Directory, improving access control and manageability.
-- Maintained SMB file servers with NTFS permissions, standardized folder structures, and access rules.
-- Managed VMware ESXi and vCenter environments, provisioning virtual machines and supporting basic recovery scenarios.
-- Supported Linux and Windows servers hosting MySQL, Apache web services, FTP, Subversion, and internal applications.
-- Implemented VPN access for remote staff and nationwide cellular field devices transmitting data to on-prem servers.
-- Migrated company email and collaboration infrastructure to Google Apps for Business, supporting mail flow and end users.
-- Deployed antivirus solutions and coordinated off-site backups using paired Synology NAS systems with bidirectional replication.
-- Monitored system uptime and availability, responding to outages, communicating status, and implementing preventative fixes.
-- Troubleshot network issues including DHCP conflicts, IP collisions, ISP outages, and device misconfigurations.
-- Configured firewalls, routers, port forwarding, and DMZs to support testing, demos, and NTCIP-compliant systems.
-- Created system documentation including inventories, network diagrams, access procedures, and recovery workflows.
-- Trained non-technical staff on system usage, email security awareness, and basic troubleshooting.
+- Administered Windows Server environments (Active Directory, DNS, DHCP, Group Policy, file and print services).
+- Managed full user lifecycle and led migration from Windows Workgroup to Active Directory.
+- Maintained SMB file servers with NTFS permissions, standardized folder structures, and access controls.
+- Managed VMware ESXi and vCenter environments, provisioning virtual machines and supporting recovery scenarios.
+- Supported Linux and Windows servers hosting MySQL, Apache, FTP, Subversion, and internal applications.
+- Implemented VPN access, antivirus deployment, and off-site backup strategies using Synology NAS replication.
+- Monitored uptime and troubleshot network issues including DHCP conflicts, IP collisions, and ISP outages.
+- Configured firewalls, routers, port forwarding, and DMZs for testing and NTCIP-compliant systems.
+- Created system documentation and trained staff on system usage and security awareness.
+
 
 
 ---
