@@ -25,7 +25,7 @@ Systems-focused IT professional with 13+ years of experience supporting and main
 - NTFS permissions, SMB file shares
 - Print server administration
 
-<u> Microsoft 365 & Cloud </>
+<u> Microsoft 365 & Cloud </u>
 - Microsoft 365 Admin Center
 - Exchange Online (mail flow, aliases, forwarding)
 - Azure AD (basic user and group management)
