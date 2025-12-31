@@ -75,7 +75,7 @@ Systems-focused IT professional with 13+ years of experience supporting and main
 ***Hybrid / Remote in Nevada City, CA | Oct 2023 – Present***
 
 - Support integration and validation of distributed systems across hardware, firmware, software, and cloud components.
-- Use Python for data analysis to troubleshoot system issues,  reducing manual diagnostic effort by 25–30%.
+- Use Python for data analysis to troubleshoot system issues,  reducing manual diagnostic effort by 30%.
 - Develop and maintain system test procedures, validation workflows, and operational documentation.
 - Collaborate with engineering, support, and customer teams to resolve complex technical issues.
 - Provide technical support for hosted platforms, data pipelines, and configuration workflows.
@@ -119,5 +119,5 @@ Systems-focused IT professional with 13+ years of experience supporting and main
 ---
 
 #### **AWARDS**
-<u><b>Best Overall Capstone — CSU Monterey Bay Computer Science Degree Program</b></u>
+<u><b>Best Overall Capstone — CSU Monterey Bay Computer Science Degree Program</b></u>  
 Recognized for developing a PTZ camera integration system supporting emergency road safety and public works monitoring.
