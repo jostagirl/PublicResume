@@ -7,7 +7,7 @@ title: Anna Bellizzi | Resume
 Nevada City, CA<br/>
 <a href="https://www.linkedin.com/in/anna-bellizzi/">linkedin.com/in/anna-bellizzi</a> | Anna.L.Bellizzi@gmail.com | 415-203-7508
 
-<div class="resume-updated-sticky"><b>Updated December 2025</b></div>
+<div class="resume-updated-sticky"><b>Updated January 2026</b></div>
 
 ---
 
@@ -58,15 +58,15 @@ Hardware-software systems integration specialist with 13+ years of hands-on expe
 #### Experience
 **Advanced Environmental Monitoring (AEM) -** ***Integration Specialist (HSE SME)***  
 *Parent company of High Sierra Electronics*  
-***Hybrid / Remote in Nevada City | Oct 2023 – Present***
+***Hybrid / Remote in Nevada City | Oct 2023 – Dec 2025***
 
-- Support validation, release readiness, and system stability for integrated hardware, firmware, and software components supporting large-scale deployed systems.
-- Perform pre-deployment configuration, verification, and validation to ensure reliable system behavior prior to release and field updates.
-- Develop and refine test procedures and quality standards used to validate system behavior and reduce integration-related failures.
-- Provide hands-on troubleshooting across hardware, firmware, and software layers, diagnosing issues rooted in system interaction and configuration.
-- Serve as subject matter expert for legacy system behavior, supporting engineering and product teams during platform changes and upgrade initiatives.
-- Build Python-based tooling to support validation workflows, data inspection, and repeatable analysis used during testing and troubleshooting.
-- Collaborate closely with engineering, manufacturing, and support teams to ensure system changes are well-documented, validated, and operationally understood prior to release.
+- Supported validation, release readiness, and system stability for integrated hardware, firmware, and software components supporting large-scale deployed systems.
+- Performed pre-deployment configuration, verification, and validation to ensure reliable system behavior prior to release and field updates.
+- Developed and refined test procedures and quality standards used to validate system behavior and reduce integration-related failures.
+- Provided hands-on troubleshooting across hardware, firmware, and software layers, diagnosing issues rooted in system interaction and configuration.
+- Served as subject matter expert for legacy system behavior, supporting engineering and product teams during platform changes and upgrade initiatives.
+- Built Python-based tooling to support validation workflows, data inspection, and repeatable analysis used during testing and troubleshooting.
+- Collaborated closely with engineering, manufacturing, and support teams to ensure system changes are well-documented, validated, and operationally understood prior to release.
 
 **High Sierra Electronics, Inc. -** ***Systems Integration Specialist (Technical Lead)***  
 ***Grass Valley, CA | May 2017 – Oct 2023***
