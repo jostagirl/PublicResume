@@ -64,10 +64,10 @@ Provided hands-on troubleshooting across data services, internal systems, and cu
 
 ---
 
-#### Education
+#### EDUCATION
 **B.S., Computer Science** — California State University, Monterey Bay 2023  
 **Mechatronics Certificate** — Sierra College 2017  
-**Electro-Mechanical Skills Certificate** — Sierra College 2012 
+**Electro-Mechanical Skills Certificate** — Sierra College 2012  
 **B.A., Journalism** — Hawaii Pacific University 2003
 
 <u><b>Best Overall Capstone — CSU Monterey Bay Computer Science Degree Program</b></u>
