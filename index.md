@@ -12,6 +12,7 @@ title: Anna Bellizzi | Resume
 ---
 
 <strong>SUMMARY</strong>  
+
 Systems integration specialist with 13+ years of experience working on complex, long-lived technical systems where reliability, data integrity, and trust in system outputs matter. My work often supports product readiness from pre-deployment validation through customer-facing issue resolution.
 
 My background spans hardware, software, communications, and data, and I am often brought in when systems require careful coordination or structured troubleshooting across technical and operational boundaries.
@@ -64,6 +65,7 @@ Provided hands-on troubleshooting across data services, internal systems, and cu
 ---
 
 <strong>EDUCATION & CERTIFICATIONS</strong>  
+
 **BS, Computer Science | California State University, Monterey Bay | 2023**  
 **BA, Journalism | Hawaii Pacific University | 2003**  
 **Mechatronics Certification | Sierra College | 2017**  
