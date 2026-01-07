@@ -2,10 +2,14 @@
 title: Anna Bellizzi | Resume
 ---
 <h2>Anna Bellizzi</h2>
-<a href="https://www.linkedin.com/in/anna-bellizzi/">linkedin.com/in/anna-bellizzi</a> | Anna.L.Bellizzi@gmail.com | 415-203-7508 | Nevada City, CA  
-<strong>Systems Integration Specialist</strong>  
-*Focused on product reliability, validation, and problem resolution across hardware, software, and data*  
+
+<strong>Hardware-Software Systems Integration Specialist</strong><br/>
+Nevada City, CA<br/>
+<a href="https://www.linkedin.com/in/anna-bellizzi/">linkedin.com/in/anna-bellizzi</a> | Anna.L.Bellizzi@gmail.com | 415-203-7508
+
 <div class="resume-updated-sticky"><b>Updated January 2026</b></div>
+
+---
 
 ### Summary
 Systems integration specialist with 13+ years of experience working on complex, long-lived technical systems where reliability, data integrity, and trust in system outputs matter. My work often supports product readiness from pre-deployment validation through customer-facing issue resolution.
@@ -16,6 +20,8 @@ In addition to technical execution, I have frequently supported operational and 
 
 I specialize in understanding full system context, identifying where assumptions or configurations break down in practice, and seeing issues through to clear resolution. I am most effective in environments where systems have evolved organically and teams value clarity, follow-through, and thoughtful system stewardship over time.
 
+---
+
 ### Core Strengths
 - Systems integration across hardware, software, networking, and data
 - System-level troubleshooting and root cause analysis
@@ -25,6 +31,8 @@ I specialize in understanding full system context, identifying where assumptions
 - Technical documentation, procedures, and repeatable workflows
 - Cross-functional collaboration with engineering, operations, and customers
 
+---
+
 ### Professional Experience
 
 #### Advanced Environmental Monitoring (AEM) | Integration Specialist (HSE SME)  
@@ -33,8 +41,6 @@ I specialize in understanding full system context, identifying where assumptions
 Served as a system-level subject matter expert supporting continuity of complex hardware, software, and data systems following the acquisition of High Sierra Electronics, with a focus on maintaining product reliability and operational continuity.
 
 Provided structured troubleshooting, analysis, and coordination across legacy products, data services, and operational workflows during organizational transition. Focused on preserving reliability, data integrity, and institutional system knowledge while supporting engineering, operations, and customer-facing teams.
-
----
 
 #### High Sierra Electronics, Inc. | Systems Integration Specialist (Technical Lead)  
 **May 2017 – Oct 2023 | Grass Valley, CA**  
@@ -47,14 +53,14 @@ Worked directly with customers, engineering, and commercial teams to align techn
 
 Supported operational and leadership teams through system and process changes, including product support workflows, internal system transitions, and infrastructure updates, by providing technical analysis, risk assessment, and implementation guidance.
 
----
-
 #### High Sierra Electronics, Inc. | Data Services Technician (Technical Data & Systems Support)  
 **Sep 2012 – May 2017 | Grass Valley, CA**  
 
 Supported data acquisition, hosting, and monitoring systems for large-scale environmental sensor deployments.
 
 Provided hands-on troubleshooting across data services, internal systems, and customer-facing platforms, building a strong foundation in system reliability, failure analysis, and operational support.
+
+---
 
 ### Education & Certifications
 **BS, Computer Science | California State University, Monterey Bay | 2023**  
@@ -66,6 +72,7 @@ Provided hands-on troubleshooting across data services, internal systems, and cu
 <u><b>Best Overall Capstone — CSU Monterey Bay Computer Science Degree Program</b></u>
 Recognized for developing a PTZ camera integration system, including system validation and deployment readiness, supporting emergency road safety and public works monitoring.
 
+---
 ## Additional Information
 - Demonstrated aptitude for learning new technologies and applying them effectively   
 - Strong record of working across technical and operational boundaries in ambiguous environments
