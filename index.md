@@ -2,12 +2,10 @@
 title: Anna Bellizzi | Resume
 ---
 <h2>Anna Bellizzi</h2>
-<strong>Systems Integration Specialist</strong><br/>
-*Focused on product reliability, validation, and real-world problem resolution across hardware, software, and data*  
-<a href="https://www.linkedin.com/in/anna-bellizzi/">linkedin.com/in/anna-bellizzi</a> | Anna.L.Bellizzi@gmail.com | 415-203-7508 | Nevada City, CA
-
+<a href="https://www.linkedin.com/in/anna-bellizzi/">linkedin.com/in/anna-bellizzi</a> | Anna.L.Bellizzi@gmail.com | 415-203-7508 | Nevada City, CA  <br>
+<strong>Systems Integration Specialist</strong><br/>  
+*Focused on product reliability, validation, and problem resolution across hardware, software, and data*  
 <div class="resume-updated-sticky"><b>Updated January 2026</b></div>
-
 
 ### Summary
 Systems integration specialist with 13+ years of experience working on complex, long-lived technical systems where reliability, data integrity, and trust in system outputs matter. My work often supports product readiness from pre-deployment validation through customer-facing issue resolution.
