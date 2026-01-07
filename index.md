@@ -64,14 +64,11 @@ Provided hands-on troubleshooting across data services, internal systems, and cu
 
 ---
 
-<p><strong>EDUCATION & CERTIFICATIONS</strong></p>  
-
-BS, Computer Science | California State University, Monterey Bay | 2023  
-BA, Journalism | Hawaii Pacific University | 2003  
-Mechatronics Certification | Sierra College | 2017  
-Electro-Mechanical Skills Certification | Sierra College | 2012  
-
-<strong>AWARDS</strong>  
+#### Education
+**B.S., Computer Science** — California State University, Monterey Bay   
+**Mechatronics Certificate** — Sierra College  
+**Electro-Mechanical Skills Certificate** — Sierra College  
+**B.A., Journalism** — Hawaii Pacific University 
 
 <u><b>Best Overall Capstone — CSU Monterey Bay Computer Science Degree Program</b></u>
 Recognized for developing a PTZ camera integrated system, including system validation and deployment readiness, supporting emergency road safety and public works monitoring.
