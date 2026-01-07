@@ -4,7 +4,7 @@ title: Anna Bellizzi | Resume
 <h2>Anna Bellizzi</h2>
 
 <strong>Systems Integration Specialist</strong><br/>
-*Focused on reliability, clarity, and problem resolution across hardware, software, and data*  
+*Focused on product reliability, validation, and real-world problem resolution across hardware, software, and data*  
 Nevada City, CA<br/>
 <a href="https://www.linkedin.com/in/anna-bellizzi/">linkedin.com/in/anna-bellizzi</a> | Anna.L.Bellizzi@gmail.com | 415-203-7508
 
@@ -12,19 +12,21 @@ Nevada City, CA<br/>
 
 
 ### Summary
-Systems integration specialist with 13+ years of experience working on complex, long-lived technical systems where reliability, data integrity, and trust in system outputs matter.
+Systems integration specialist with 13+ years of experience working on complex, long-lived technical systems where reliability, data integrity, and trust in system outputs matter. My work often supports product readiness from pre-deployment validation through customer-facing issue resolution.
 
 My background spans hardware, software, communications, and data, and I am often brought in when systems require careful coordination or structured troubleshooting across technical and operational boundaries.
+
+In addition to technical execution, I have frequently supported operational and executive decision-making by providing systems context, risk assessment, and practical guidance during process changes and technology transitions.
 
 I specialize in understanding full system context, identifying where assumptions or configurations break down in practice, and seeing issues through to clear resolution. I am most effective in environments where systems have evolved organically and teams value clarity, follow-through, and thoughtful system stewardship over time.
 
 ### Core Strengths
 - Systems integration across hardware, software, networking, and data
 - System-level troubleshooting and root cause analysis
-- Pre-deployment configuration, validation, and bench testing
+- Pre-deployment configuration, validation, and readiness verification
 - Telemetry, IoT, and distributed device systems
 - Field-to-cloud data flows and data integrity
-- Technical documentation, procedures, and support tools
+- Technical documentation, procedures, and repeatable workflows
 - Cross-functional collaboration with engineering, operations, and customers
 
 ### Professional Experience
@@ -32,7 +34,7 @@ I specialize in understanding full system context, identifying where assumptions
 #### Advanced Environmental Monitoring (AEM) | Integration Specialist (HSE SME)  
 **Oct 2023 – Dec 2025 | Nevada City, CA (Hybrid / Remote)**  
 
-Served as a system-level subject matter expert supporting continuity of complex hardware, software, and data systems following the acquisition of High Sierra Electronics.
+Served as a system-level subject matter expert supporting continuity of complex hardware, software, and data systems following the acquisition of High Sierra Electronics, with a focus on maintaining product reliability and operational continuity.
 
 Provided structured troubleshooting, analysis, and coordination across legacy products, data services, and operational workflows during organizational transition. Focused on preserving reliability, data integrity, and institutional system knowledge while supporting engineering, operations, and customer-facing teams.
 
@@ -43,9 +45,11 @@ Provided structured troubleshooting, analysis, and coordination across legacy pr
 
 Led system-level integration and troubleshooting for automated environmental monitoring systems spanning hardware, firmware, software platforms, and data services.
 
-Diagnosed complex issues across sensor networks, communications, data pipelines, and customer-facing outputs. Developed validation workflows, test procedures, and quality standards to support reliable deployment and long-term system performance.
+Diagnosed complex issues across sensor networks, communications, data pipelines, and customer-facing outputs. Developed validation workflows, test procedures, and quality standards to support reliable deployment, production consistency, and long-term system performance.
 
 Worked directly with customers, engineering, and commercial teams to align technical solutions with operational needs and ensure consistent system behavior in production environments.
+
+Supported operational and leadership teams through system and process changes, including product support workflows, internal system transitions, and infrastructure updates, by providing technical analysis, risk assessment, and implementation guidance.
 
 ---
 
@@ -54,16 +58,7 @@ Worked directly with customers, engineering, and commercial teams to align techn
 
 Supported data acquisition, hosting, and monitoring systems for large-scale environmental sensor deployments.
 
-Provided hands-on troubleshooting across data services, internal systems, and customer-facing platforms, building a strong foundation in system reliability, technical diagnostics, and operational support.
-
-### Projects & Initiatives
-**AI Council Member | AEM | 2025**   
-Develop internal guidance, workshops, and documentation to optimize operational processes and team productivity.  
-
-**System Recovery & Upgrade Initiative | High Sierra Electronics, Inc. | Apr 2024 – Mar 2025**  
-Coordinated system recovery and upgrades for 400+ Low Water Crossing (LWC) sites.  
-Analyzed system performance, conducted database cleanup, and developed data-driven repair priorities.  
-Planned and executed hardware upgrades and network infrastructure updates, delivering data-driven field deployment plans for efficency
+Provided hands-on troubleshooting across data services, internal systems, and customer-facing platforms, building a strong foundation in system reliability, failure analysis, and operational support.
 
 ### Education & Certifications
 **BS, Computer Science | California State University, Monterey Bay | 2023**  
@@ -73,7 +68,7 @@ Planned and executed hardware upgrades and network infrastructure updates, deliv
 
 #### **AWARDS**
 <u><b>Best Overall Capstone — CSU Monterey Bay Computer Science Degree Program</b></u>
-Recognized for developing a PTZ camera integration system supporting emergency road safety and public works monitoring.
+Recognized for developing a PTZ camera integration system, including system validation and deployment readiness, supporting emergency road safety and public works monitoring.
 
 ## Additional Information
 - Demonstrated aptitude for learning new technologies and applying them effectively   
