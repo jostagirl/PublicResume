@@ -64,7 +64,7 @@ Provided hands-on troubleshooting across data services, internal systems, and cu
 
 ---
 
-<strong>EDUCATION & CERTIFICATIONS</strong>  
+<p><strong>EDUCATION & CERTIFICATIONS</strong></p>  
 
 BS, Computer Science | California State University, Monterey Bay | 2023  
 BA, Journalism | Hawaii Pacific University | 2003  
