@@ -90,7 +90,7 @@ Hardware-software systems integration specialist with 13+ years of hands-on expe
 
 ---
 
-#### **EDUCATION**
+#### Education
 **B.S., Computer Science** — California State University, Monterey Bay   
 **Mechatronics Certificate** — Sierra College  
 **Electro-Mechanical Skills Certificate** — Sierra College  
@@ -98,6 +98,6 @@ Hardware-software systems integration specialist with 13+ years of hands-on expe
 
 ---
 
-#### **AWARDS**
+#### Awards
 <u><b>Best Overall Capstone — CSU Monterey Bay Computer Science Degree Program</b></u>
 Recognized for developing a PTZ camera integration system supporting emergency road safety and public works monitoring.

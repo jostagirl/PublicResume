@@ -11,7 +11,7 @@ Nevada City, CA<br/>
 
 ---
 
-### Summary
+#### Summary
 Systems integration specialist with 13+ years of experience working on complex, long-lived technical systems where reliability, data integrity, and trust in system outputs matter. My work often supports product readiness from pre-deployment validation through customer-facing issue resolution.
 
 My background spans hardware, software, communications, and data, and I am often brought in when systems require careful coordination or structured troubleshooting across technical and operational boundaries.
@@ -22,7 +22,7 @@ I specialize in understanding full system context, identifying where assumptions
 
 ---
 
-### Core Strengths
+#### Core Strengths
 - Systems integration across hardware, software, networking, and data
 - System-level troubleshooting and root cause analysis
 - Pre-deployment configuration, validation, and readiness verification
@@ -33,17 +33,18 @@ I specialize in understanding full system context, identifying where assumptions
 
 ---
 
-### Professional Experience
+#### Professional Experience
 
-#### Advanced Environmental Monitoring (AEM) | Integration Specialist (HSE SME)  
-**Oct 2023 – Dec 2025 | Nevada City, CA (Hybrid / Remote)**  
+**Advanced Environmental Monitoring (AEM) -** ***Integration Specialist (HSE SME)***  
+*Parent company of High Sierra Electronics*  
+***Hybrid / Remote in Nevada City | Oct 2023 – Dec 2025*** 
 
 Served as a system-level subject matter expert supporting continuity of complex hardware, software, and data systems following the acquisition of High Sierra Electronics, with a focus on maintaining product reliability and operational continuity.
 
 Provided structured troubleshooting, analysis, and coordination across legacy products, data services, and operational workflows during organizational transition. Focused on preserving reliability, data integrity, and institutional system knowledge while supporting engineering, operations, and customer-facing teams.
 
-#### High Sierra Electronics, Inc. | Systems Integration Specialist (Technical Lead)  
-**May 2017 – Oct 2023 | Grass Valley, CA**  
+**High Sierra Electronics, Inc. -** ***Systems Integration Specialist (Technical Lead)***  
+***Grass Valley, CA | May 2017 – Oct 2023***  
 
 Led system-level integration and troubleshooting for automated environmental monitoring systems spanning hardware, firmware, software platforms, and data services.
 
@@ -53,8 +54,8 @@ Worked directly with customers, engineering, and commercial teams to align techn
 
 Supported operational and leadership teams through system and process changes, including product support workflows, internal system transitions, and infrastructure updates, by providing technical analysis, risk assessment, and implementation guidance.
 
-#### High Sierra Electronics, Inc. | Data Services Technician (Technical Data & Systems Support)  
-**Sep 2012 – May 2017 | Grass Valley, CA**  
+**High Sierra Electronics, Inc. -** ***Data Services Technician***  
+***Grass Valley, CA | Sep 2012 – May 2017***
 
 Supported data acquisition, hosting, and monitoring systems for large-scale environmental sensor deployments.
 
@@ -62,18 +63,18 @@ Provided hands-on troubleshooting across data services, internal systems, and cu
 
 ---
 
-### Education & Certifications
+#### Education & Certifications
 **BS, Computer Science | California State University, Monterey Bay | 2023**  
 **BA, Journalism | Hawaii Pacific University | 2003**  
 **Mechatronics Certification | Sierra College | 2017**  
 **Electro-Mechanical Skills Certification | Sierra College | 2012**
 
-#### **AWARDS**
+#### Awards
 <u><b>Best Overall Capstone — CSU Monterey Bay Computer Science Degree Program</b></u>
 Recognized for developing a PTZ camera integration system, including system validation and deployment readiness, supporting emergency road safety and public works monitoring.
 
 ---
-## Additional Information
+#### Additional Information
 - Demonstrated aptitude for learning new technologies and applying them effectively   
 - Strong record of working across technical and operational boundaries in ambiguous environments
 - Known for calm, methodical problem-solving and clear technical communication
