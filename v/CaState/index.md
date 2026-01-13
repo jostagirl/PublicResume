@@ -63,6 +63,7 @@ Performed technical evaluation, testing, and configuration of third-party compon
 Developed implementation procedures and standards to support consistent solution delivery and long-term maintainability.
 
 Mentored technical staff and new hires and provided day-to-day technical leadership during solution delivery efforts.
+
 *Role emphasis: hands-on solution delivery, system integration execution, and technical leadership across active implementations.*
 
 **High Sierra Electronics, Inc. -** ***Data Services Technician***  
@@ -77,6 +78,7 @@ Assisted with system configuration, implementation, and infrastructure improveme
 Worked with internal users and stakeholders to assess operational needs and translate requirements into technical solutions.
 
 Supported data integrity, backup, recovery, and business continuity activities to maintain reliable system operations.
+
 *Role emphasis: enterprise infrastructure operations, network and hosting support, and foundational systems experience.*
 ---
 
