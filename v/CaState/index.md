@@ -80,6 +80,7 @@ Worked with internal users and stakeholders to assess operational needs and tran
 Supported data integrity, backup, recovery, and business continuity activities to maintain reliable system operations.
 
 *Role emphasis: enterprise infrastructure operations, network and hosting support, and foundational systems experience.*
+
 ---
 
 #### Education
