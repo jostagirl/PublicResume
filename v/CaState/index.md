@@ -33,8 +33,8 @@ Information technology professional with 13+ years of progressively responsible 
 #### Experience
 **Advanced Environmental Monitoring (AEM) -** ***Integration Specialist (HSE SME)***  
 *Parent company of High Sierra Electronics*  
-***Hybrid / Remote in Nevada City | Oct 2023 – Dec 2025***
-
+***Hybrid / Remote in Nevada City | Oct 2023 – Dec 2025***  
+*Role emphasis: senior SME support, system stability, legacy system oversight, and transition support rather than continuous solution delivery.*  
 Served as a senior subject matter expert supporting business solutions and integrated applications, with emphasis on legacy system stability, operational continuity, and transition support.
 
 Performed business and technical analysis to inform decision-making related to system performance, risk, and change management.
@@ -47,11 +47,9 @@ Produced technical documentation, operational reporting, and performance metrics
 
 Collaborated with cross-functional teams, government agencies, and vendors to support system operations and organizational objectives.
 
-*Role emphasis: senior SME support, system stability, legacy system oversight, and transition support rather than continuous solution delivery.*
-
 **High Sierra Electronics, Inc. -** ***Systems Integration Specialist (Technical Lead)***  
-***Grass Valley, CA | May 2017 – Oct 2023***
-
+***Grass Valley, CA | May 2017 – Oct 2023***  
+*Role emphasis: hands-on solution delivery, system integration execution, and technical leadership across active implementations.*  
 Served as a lead technical resource responsible for hands-on solution design, configuration, integration, testing, and deployment across complex technology initiatives.
 
 Executed system integration work across infrastructure, applications, data, and product systems to support solution modernization and operational readiness.
@@ -64,11 +62,9 @@ Developed implementation procedures and standards to support consistent solution
 
 Mentored technical staff and new hires and provided day-to-day technical leadership during solution delivery efforts.
 
-*Role emphasis: hands-on solution delivery, system integration execution, and technical leadership across active implementations.*
-
 **High Sierra Electronics, Inc. -** ***Data Services Technician***  
-***Grass Valley, CA | Sep 2012 – May 2017***
-
+***Grass Valley, CA | Sep 2012 – May 2017***  
+*Role emphasis: enterprise infrastructure operations, network and hosting support, and foundational systems experience.*  
 Provided independent technical support for enterprise infrastructure and information technology services supporting office, network, and on-premises hosting environments.
 
 Supported network, server, data, and hosting operations, including monitoring, troubleshooting, and escalation of complex issues.
@@ -78,8 +74,6 @@ Assisted with system configuration, implementation, and infrastructure improveme
 Worked with internal users and stakeholders to assess operational needs and translate requirements into technical solutions.
 
 Supported data integrity, backup, recovery, and business continuity activities to maintain reliable system operations.
-
-*Role emphasis: enterprise infrastructure operations, network and hosting support, and foundational systems experience.*
 
 ---
 
