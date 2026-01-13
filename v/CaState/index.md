@@ -47,7 +47,7 @@ Produced technical documentation, operational reporting, and performance metrics
 
 Collaborated with cross-functional teams, government agencies, and vendors to support system operations and organizational objectives.
 
-(Role emphasis: senior SME support, system stability, legacy system oversight, and transition support rather than continuous solution delivery.)
+*Role emphasis: senior SME support, system stability, legacy system oversight, and transition support rather than continuous solution delivery.*
 
 **High Sierra Electronics, Inc. -** ***Systems Integration Specialist (Technical Lead)***  
 ***Grass Valley, CA | May 2017 – Oct 2023***
@@ -63,7 +63,7 @@ Performed technical evaluation, testing, and configuration of third-party compon
 Developed implementation procedures and standards to support consistent solution delivery and long-term maintainability.
 
 Mentored technical staff and new hires and provided day-to-day technical leadership during solution delivery efforts.
-(Role emphasis: hands-on solution delivery, system integration execution, and technical leadership across active implementations.)
+*Role emphasis: hands-on solution delivery, system integration execution, and technical leadership across active implementations.*
 
 **High Sierra Electronics, Inc. -** ***Data Services Technician***  
 ***Grass Valley, CA | Sep 2012 – May 2017***
@@ -77,7 +77,7 @@ Assisted with system configuration, implementation, and infrastructure improveme
 Worked with internal users and stakeholders to assess operational needs and translate requirements into technical solutions.
 
 Supported data integrity, backup, recovery, and business continuity activities to maintain reliable system operations.
-(Role emphasis: enterprise infrastructure operations, network and hosting support, and foundational systems experience.)
+*Role emphasis: enterprise infrastructure operations, network and hosting support, and foundational systems experience.*
 ---
 
 #### Education
