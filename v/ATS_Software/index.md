@@ -12,7 +12,7 @@ Nevada City, CA<br/>
 ---
 
 #### Professional Summary
-Senior Systems Integrator with 15+ years of experience supporting mission-critical operations through hardware–software integration, cloud-based data workflows, and structured program coordination. Known for creating clarity in complex technical environments, aligning engineering and operations, and building reproducible processes that improve system reliability and deployment quality. Adept at designing and executing pre-deployment testing, coordinating multi-team rollouts, and establishing standards for configuration, validation, and documentation. Actively applying AI-assisted tools to enhance diagnostics, workflow automation, and scalable quality practices. Operates with a leadership mindset while remaining hands-on and detail-driven.
+I operate as a senior problem solver embedded between product, engineering, and technical operations. I take complex, ambiguous system and integration challenges, break them into manageable parts, and coordinate cross-functional efforts through resolution. My work focuses on improving platform reliability, integration quality, and operational clarity, while protecting customer trust and account stability.
 
 ---
 
