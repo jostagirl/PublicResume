@@ -12,7 +12,7 @@ Nevada City, CA<br/>
 ---
 
 #### Professional Summary
-I operate as a senior problem solver embedded between product, engineering, and technical operations. I take complex, ambiguous system and integration challenges and guide cross-functional teams toward clear resolution. My work improves platform reliability and integration quality by resolving system and workflow friction, supporting customer trust and account stability.
+I operate as a senior problem solver embedded between product, engineering, and technical operations. I take complex, ambiguous system and integration challenges and coordinate cross-functional efforts through clear, structured resolution. My work improves platform reliability and integration quality by resolving system and workflow friction, shaping deployment readiness and operational decisions that support customer trust and account stability.
 
 ---
 
@@ -35,19 +35,19 @@ I operate as a senior problem solver embedded between product, engineering, and 
 ***Hybrid / Remote in Nevada City | Oct 2023 – Dec 2025***
 
 - Led cross-functional integration efforts across hardware, software, and data systems supporting large-scale deployed platforms.
-- Designed and implemented standardized validation and deployment workflows, improving data reliability and integration consistency.
+- Designed and implemented standardized validation and deployment workflows used to gate releases, inform launch readiness decisions, and improve data reliability and integration consistency.
 - Built Python-based automation and diagnostic tooling, reducing manual troubleshooting by approximately 30% and improving response time to system issues.
-- Served as an operational bridge between engineering, product-adjacent teams, and support during platform changes and deployments.
+- Served as an operational bridge between engineering, product-adjacent teams, and support, translating field and system feedback into launch readiness adjustments, escalation decisions, and post-deployment follow-up during platform changes.
 - Contributed to internal initiatives improving documentation, diagnostics, and operational clarity across teams.
 
 **High Sierra Electronics, Inc. -** ***Systems Integration Specialist (Technical Lead)***  
 ***Grass Valley, CA | May 2017 – Oct 2023***
 
-- Led system-level integration and deployment readiness for 30+ distributed platform implementations spanning hardware, software, and data services.
+- Led system-level integration and deployment readiness for 30+ distributed platform implementations, coordinating trade-offs across engineering, operations, and customer needs to support reliable launches and long-term platform stability.
 - Developed pre-deployment validation frameworks that increased first-time deployment success rates by over 75%.
-- Authored operational playbooks, testing standards, and escalation documentation adopted across engineering and manufacturing teams.
-- Analyzed system telemetry and performance data to distinguish root causes from surface symptoms, identify integration failures, and drive effective resolution supporting platform recovery.
-- Led a major hardware refresh initiative, coordinating cross-functional teams to mitigate component obsolescence and maintain platform stability. 
+- Authored operational playbooks, testing standards, and escalation frameworks used by engineering and operations leadership to prioritize issues, manage risk, and maintain platform reliability at scale.
+- Investigated recurring manufacturing configuration failures by tracing issues across software, product, and sales workflows, identifying an upstream policy deviation rather than a production defect, and enabling manufacturing leadership to avoid unnecessary process changes and resource investment.
+- Provided data-driven analysis and technical recommendations during a high-risk customer recovery initiative, informing leadership decisions on system improvements, scope boundaries, and rollout strategy, and executing against the selected plan to restore platform stability and customer confidence. 
 
 **High Sierra Electronics, Inc. -** ***Data Services Technician***  
 ***Grass Valley, CA | Sep 2012 – May 2017***
@@ -64,8 +64,3 @@ I operate as a senior problem solver embedded between product, engineering, and 
 **Electro-Mechanical Skills Certificate** — Sierra College  
 **B.A., Journalism** — Hawaii Pacific University
 
----
-
-#### Awards
-<b>Best Overall Capstone — CSU Monterey Bay Computer Science Degree Program</b>
-Recognized for development of a PTZ camera integration project focused on system validation, deployment readiness, and operational reliability.
