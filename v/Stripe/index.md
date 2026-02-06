@@ -1,5 +1,6 @@
 ---
 title: Anna Bellizzi | Resume
+variant_downloads: true
 ---
 <h2>Anna Bellizzi</h2>
 
