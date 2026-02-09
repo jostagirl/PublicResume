@@ -1,6 +1,7 @@
 ---
 title: Anna Bellizzi | Resume
-variant_downloads: true
+cover_letter: /v/Stripe/downloads/Anna_Bellizzi_Cover_Letter_Stripe_2026.pdf
+statement_of_purpose: /v/Stripe/downloads/Anna_Bellizzi_Statement_of_Purpose_Stripe_2026.pdf
 ---
 <h2>Anna Bellizzi</h2>
 

@@ -1,6 +1,6 @@
 ---
 title: Anna Bellizzi | Resume
-variant_downloads: true
+cover_letter: /v/6sense/downloads/Anna_Bellizzi_Cover_Letter_6sense_2026.pdf
 ---
 <h2>Anna Bellizzi</h2>
 
