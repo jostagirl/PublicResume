@@ -44,10 +44,10 @@ Reduce ambiguous or stalled issues to observable, testable facts that enable cle
 *Parent company of High Sierra Electronics*  
 **Hybrid / Remote, Nevada City | Oct 2023 – Dec 2025**
 
-- Served as a senior escalation resource handling complex customer-reported issues that crossed deployed hardware, software configuration, and data pipelines, often involving stalled or sensitive accounts
+- Served as a senior escalation resource handling complex customer-reported issues that cross deployed hardware, software configuration, and data pipelines that involve stalled or sensitive accounts
 - Diagnosed discrepancies between customer-facing dashboards and actual system behavior by validating collected data, configuration settings, and activation logic, identifying cases where systems functioned correctly but were misrepresented in software
 - Entrusted by the Director of Technical Services with complex, stalled, or high-risk customer issues requiring careful technical investigation and clear communication
-- Used SQL and Python-based diagnostics to validate telemetry, metadata, and event data, separating reporting defects from true functional failures and preventing unnecessary field or engineering interventions
+- Used SQL and Python-based diagnostics to validate telemetry, metadata, and event data, separating reporting defects from true functional failures and preventing unnecessary resource consumtion.
 - Acted as a trusted bridge between customers, support leadership, and engineering, translating unclear symptoms into well-scoped technical findings and coordinating resolution paths
 - Designed and implemented standardized validation and deployment readiness workflows that improved data reliability, reduced false alarms, and supported confident customer communication during platform changes
 - Built automation and diagnostic tooling that reduced manual troubleshooting effort and improved response time to escalated issues
@@ -56,7 +56,7 @@ Reduce ambiguous or stalled issues to observable, testable facts that enable cle
 **Grass Valley, CA | May 2017 – Oct 2023**
 
 - Led final-tier escalation and system-level diagnostics for distributed platform deployments, supporting long-term stability across 30+ customer implementations
-- Investigated issues by tracing reported symptoms across configuration, software behavior, and underlying data, frequently identifying upstream misconfiguration or workflow breakdowns rather than hardware defects
+- Investigated issues by tracing reported symptoms across configuration, software behavior, and underlying data, identifying upstream misconfiguration or workflow breakdowns
 - Performed detailed data analysis to validate system outputs against expected behavior, supporting accurate root cause identification and corrective action
 - Authored internal troubleshooting guides, validation procedures, and escalation frameworks to improve consistency in issue triage and resolution across teams
 - Provided detailed data analysis to support leadership decision-making during a multi-month customer recovery effort, identifying discrepancies between field conditions, collected data, and system metadata, clarifying risk and tradeoffs, and enabling informed decisions to restore platform reliability and customer confidence
