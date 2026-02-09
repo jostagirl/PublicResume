@@ -20,12 +20,12 @@ I operate as a senior escalation-layer problem solver in the space where system 
 ---
 
 #### How I work
-<center>
+
 Diagnose reported symptoms by validating underlying system behavior, configuration, and data integrity rather than assuming the problem location<br><br>
 Reduce ambiguous or stalled issues to observable, testable facts that enable clear technical decisions
 Communicate findings clearly to customers, support leadership, and engineering, with an emphasis on accuracy and confidence-building<br><br>
 Document investigations, root causes, and resolution paths to reduce repeat work, enable knowledge sharing, and improve consistency in future escalations
-</center>
+
 ---
 
 #### Technical Scope and Tooling
