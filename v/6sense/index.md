@@ -1,5 +1,6 @@
 ---
 title: Anna Bellizzi | Resume
+hide_weather_project: true
 cover_letter: /v/6sense/downloads/Anna_Bellizzi_Cover_Letter_6sense.pdf
 ---
 <h2>Anna Bellizzi</h2>

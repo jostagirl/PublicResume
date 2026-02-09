@@ -28,24 +28,29 @@
       <aside class="side" aria-label="Resume links">
         <a href="{{ page.linkedin | default: 'https://www.linkedin.com/in/anna-bellizzi/' }}" target="_blank" rel="noopener">LinkedIn</a>
         
-		<a href="{{ page.data | default: 'https://data.annabellizzi.com/' }}" target="_blank" title="Data Pipeline Project using live weather telemetry" rel="noopener">Live Weather Data Pipeline</a>
-        
 		<button type="button" onclick="window.print()">Download this Resume(PDF)</button>
 		
 		{% if page.cover_letter or page.statement_of_purpose %}
 			<hr style="margin: 14px 0; border: none; border-top: 1px solid #e5e5e5;">
 
 			{% if page.cover_letter %}
-				<a href="{{ page.cover_letter }}" download> Cover Letter
+				<a href="{{ page.cover_letter }}" download>Cover Letter
 				</a>
 			{% endif %}
 
 			{% if page.statement_of_purpose %}
-				<a href="{{ page.statement_of_purpose }}" download> Statement of Purpose
+				<a href="{{ page.statement_of_purpose }}" download>Statement of Purpose
 				</a>
 			{% endif %}
 		{% endif %}
 		
+		{% unless page.hide_weather_project %}
+			<a href="{{ page.data | default: 'https://data.annabellizzi.com/' }}"
+			target="_blank"
+			title="Data Pipeline Project using live weather telemetry"
+			rel="noopener">Live Weather Data Pipeline
+			</a>
+		{% endunless %}
       </aside>
 
       <article class="content">
