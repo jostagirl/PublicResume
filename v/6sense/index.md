@@ -17,8 +17,6 @@ Nevada City, CA<br/>
 
 I operate as a senior escalation-layer problem solver in the space where system reliability, data accuracy, and customer trust matter and problems do not clearly belong to one team. I serve as the single point of technical accountability when issues are ambiguous, defining the real problem, determining the correct path forward, and coordinating resolution across engineering, operations, and customer-facing teams. My work directly supports revenue recovery, account stabilization, and long-term system reliability by owning complex system issues end-to-end.
 
----
-
 #### How I work
 
 Diagnose reported symptoms by validating underlying system behavior, configuration, and data integrity rather than assuming the problem location<br><br>
