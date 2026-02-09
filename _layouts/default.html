@@ -5,52 +5,146 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{{ page.title | escape }}</title>
 
-<link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 
     <style>
-      body { font-family: system-ui, Arial, sans-serif; line-height: 1.45; color: #111; }
-	  * { box-sizing: border-box; }
-      .wrap { max-width: 980px; margin: 0 auto; padding: 28px 16px; display: grid; grid-template-columns: 240px 1fr; gap: 28px; }
-      .side { position: sticky; top: 16px; align-self: start; border: 1px solid #e5e5e5; border-radius: 12px; padding: 14px; }
-      .side a, .side button { display: block; width: 100%; box-sizing: border-box; text-align: center; padding: 10px 10px; margin: 8px 0; border-radius: 10px; border: 1px solid #ddd; background: #fff; cursor: pointer; text-decoration: none; color: inherit; }
-      .side a:hover, .side button:hover { background: #f6f6f6; }
-      .content { min-width: 0; }
-      @media (max-width: 860px) { .wrap { grid-template-columns: 1fr; padding: 16px 12px; gap: 14px; } .side { position: static; padding: 12px; } .side a, .side button { padding: 12px 10px; margin: 8px 0; font-size: 16px; /* improves tap targets */ } }
+      body {
+        font-family: system-ui, Arial, sans-serif;
+        line-height: 1.45;
+        color: #111;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      .wrap {
+        max-width: 980px;
+        margin: 0 auto;
+        padding: 28px 16px;
+        display: grid;
+        grid-template-columns: 240px 1fr;
+        gap: 28px;
+      }
+
+      .side {
+        position: sticky;
+        top: 16px;
+        align-self: start;
+        border: 1px solid #e5e5e5;
+        border-radius: 12px;
+        padding: 14px;
+      }
+
+      .side a,
+      .side button {
+        display: block;
+        width: 100%;
+        box-sizing: border-box;
+        text-align: center;
+        padding: 10px 10px;
+        margin: 8px 0;
+        border-radius: 10px;
+        border: 1px solid #ddd;
+        background: #fff;
+        cursor: pointer;
+        text-decoration: none;
+        color: inherit;
+      }
+
+      .side a:hover,
+      .side button:hover {
+        background: #f6f6f6;
+      }
+
+      .content {
+        min-width: 0;
+      }
+
+      @media (max-width: 860px) {
+        .wrap {
+          grid-template-columns: 1fr;
+          padding: 16px 12px;
+          gap: 14px;
+        }
+
+        .side {
+          position: static;
+          padding: 12px;
+        }
+
+        .side a,
+        .side button {
+          padding: 12px 10px;
+          margin: 8px 0;
+          font-size: 16px;
+        }
+      }
+
       @media print {
-        .side { display: none; }
-        .wrap { display: block; padding: 0; }
-        a[href]:after { content: ""; }
+        .side {
+          display: none;
+        }
+
+        .wrap {
+          display: block;
+          padding: 0;
+        }
+
+        a[href]:after {
+          content: "";
+        }
       }
     </style>
   </head>
+
   <body>
     <main class="wrap">
       <aside class="side" aria-label="Resume links">
-        <a href="{{ page.linkedin | default: 'https://www.linkedin.com/in/anna-bellizzi/' }}" target="_blank" rel="noopener">LinkedIn</a>
-        
-		<button type="button" onclick="window.print()">Download this Resume(PDF)</button>
-		
-		{% if page.cover_letter or page.statement_of_purpose %}
-			<hr style="margin: 14px 0; border: none; border-top: 1px solid #e5e5e5;">
 
-			{% if page.cover_letter %}
-				<a href="{{ page.cover_letter }}" download>Cover Letter
-				</a>
-			{% endif %}
+        <!-- Primary downloads -->
+        <button type="button" onclick="window.print()">
+          Download this Resume (PDF)
+        </button>
 
-			{% if page.statement_of_purpose %}
-				<a href="{{ page.statement_of_purpose }}" download>Statement of Purpose
-				</a>
-			{% endif %}
-		{% endif %}
-		
-		{% unless page.hide_weather_project %}
-			<a href="{{ page.data | default: 'https://data.annabellizzi.com/' }}"
-			target="_blank"
-			title="Data Pipeline Project using live weather telemetry"
-			rel="noopener">Live Weather Data Pipeline
-			</a>
-		{% endunless %}
+        {% if page.cover_letter %}
+          <a href="{{ page.cover_letter }}" download>
+            Download Cover Letter
+          </a>
+        {% endif %}
+
+        {% if page.statement_of_purpose %}
+          <a href="{{ page.statement_of_purpose }}" download>
+            Download SoP
+          </a>
+        {% endif %}
+
+        <!-- Divider after downloads -->
+        <hr style="margin: 14px 0; border: none; border-top: 1px solid #e5e5e5;">
+
+        <!-- Profile -->
+        <a
+          href="{{ page.linkedin | default: 'https://www.linkedin.com/in/anna-bellizzi/' }}"
+          target="_blank"
+          rel="noopener"
+        >
+          LinkedIn
+        </a>
+
+        <!-- Projects -->
+        {% unless page.hide_weather_project %}
+          <hr style="margin: 14px 0; border: none; border-top: 1px solid #e5e5e5;">
+
+          <a
+            href="{{ page.data | default: 'https://data.annabellizzi.com/' }}"
+            target="_blank"
+            title="Data Pipeline Project using live weather telemetry"
+            rel="noopener"
+          >
+            Live Weather Data Pipeline
+          </a>
+        {% endunless %}
+
       </aside>
 
       <article class="content">
