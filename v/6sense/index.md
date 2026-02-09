@@ -49,7 +49,6 @@ Reduce ambiguous or stalled issues to observable, testable facts that enable cle
 - Entrusted by the Director of Technical Services with complex, stalled, or high-risk customer issues requiring careful technical investigation and clear communication
 - Used SQL and Python-based diagnostics to validate telemetry, metadata, and event data, separating reporting defects from true functional failures and preventing unnecessary resource consumtion.
 - Acted as a trusted bridge between customers, support leadership, and engineering, translating unclear symptoms into well-scoped technical findings and coordinating resolution paths
-- Designed and implemented standardized validation and deployment readiness workflows that improved data reliability, reduced false alarms, and supported confident customer communication during platform changes
 - Built automation and diagnostic tooling that reduced manual troubleshooting effort and improved response time to escalated issues
 
 **High Sierra Electronics, Inc.** — *Systems Integration Specialist (Technical Lead)*  
