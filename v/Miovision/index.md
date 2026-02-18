@@ -46,7 +46,8 @@ Implementation-focused systems engineer with over a decade of experience support
 - Led remote configuration and ongoing support of deployed cellular modems, IP cameras, and edge devices across live municipal and enterprise environments.
 - Performed firmware updates, device health diagnostics, and connectivity restoration without requiring on-site intervention.
 - Managed VPN access and routing configurations within Cisco and Ubiquiti environments; coordinated firewall and VPN rule configurations with customer IT teams to enable secure two-way communication between field devices and internal base station networks.
-- Supported roadway safety and environmental telemetry systems utilizing loop detection and NTCIP-based communications, with practical experience troubleshooting centralized polling and field data retrieval workflows.
+- Supported roadway safety and environmental telemetry systems utilizing loop detection and NTCIP-based communications, with practical experience troubleshooting ce
+ntralized polling and field data retrieval workflows.
 - Led a camera hardware refresh initiative addressing component obsolescence; evaluated replacement hardware, validated compatibility with existing communications and data infrastructure, and developed updated integration procedures to ensure continuity of field operations.
 - Served as direct technical liaison for municipal customers, coordinating base station configuration and validating end-to-end communication cycles.
 - Conducted structured root cause analysis across hardware, networking, and software layers to resolve escalated system failures.
@@ -70,10 +71,3 @@ Implementation-focused systems engineer with over a decade of experience support
 **Electro-Mechanical Skills Certificate** - Sierra College  
 **B.A., Journalism** - Hawaii Pacific University 
 
----
-
-#### PROJECTS
-### Edge Telemetry Infrastructure (Personal IoT Project)
-
-- Designed and deployed a Raspberry Pi-based edge telemetry system integrating API data ingestion, public API exchange, local database persistence (MariaDB), and web-based data distribution.
-- Implemented secure SSH access, automated data validation, and API-based monitoring to mirror production-grade edge-to-cloud data workflows.
