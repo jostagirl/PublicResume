@@ -13,10 +13,9 @@ Nevada City, CA<br/>
 
 ### PROFESSIONAL SUMMARY
 
-Systems integration engineer with 13 years of experience supporting municipal and county flood warning infrastructure. Deep understanding of distributed telemetry and control architecture spanning HSE 3306 product family controllers, two-way ALERT/ALERT2 Master/Remote networks, base stations, repeaters, internet transport, cellular communications, and centralized data ingestion workflows.
+Systems integration engineer specializing in distributed flood warning and environmental telemetry systems. I solve complex, cross-layer system failures that span controller logic, RF transport, networking environments, and centralized data platforms.  
 
-Frequently served as escalation lead for complex, cross-layer failures affecting public safety–critical deployments, restoring stability across RF transport, control hierarchies, networking environments, hosted systems, and field operations.
-
+Over 13 years, I have supported the full lifecycle of municipal flood infrastructure — from architecture configuration and deployment validation to operational recovery, modernization, and high-severity escalation response. Frequently trusted as the go-to technical resource for problems that extend beyond single-device failures and require system-level reasoning.
 
 ---
 
@@ -25,80 +24,74 @@ Frequently served as escalation lead for complex, cross-layer failures affecting
 *Parent company of High Sierra Electronics*  
 ***Hybrid / Remote in Nevada City | Oct 2023 – Dec 2025***
 
-Served as subject matter expert for legacy High Sierra distributed flood telemetry systems during post-acquisition transition.
+Trusted subject matter expert for legacy High Sierra flood telemetry systems following acquisition. Served as primary technical authority for the most complex and high-priority system issues escalated to executive leadership.
 
-#### Architectural Continuity & Escalation
+#### Senior Technical Escalation & Organizational Transition
 
-- Preserved configuration and architectural continuity across deployed ALERT/ALERT2 Low Water Crossing systems during organizational transition.
-- Led resolution of high-severity escalations involving RF transport behavior, base station anomalies, internet routing issues, and centralized data ingestion discrepancies.
-- Provided system-level analysis across controller logic, reporting cadence, telemetry transport, and hosted infrastructure layers.
-- Served as escalation authority during public safety–critical high-water events, coordinating technical response across engineering, field teams, and customer IT stakeholders.
-- Supported upcoming 3406 platform transition efforts by translating legacy configuration models, reporting behaviors, and field constraints to new engineering and documentation teams.
+- Acted as go-to escalation resource for cross-layer failures involving ALERT/ALERT2 networks, base stations, internet transport, and centralized data ingestion workflows.
+- Repeatedly engaged by Director of Technical Services for customer-critical issues requiring system-level analysis beyond standard support pathways.
+- Preserved architectural and configuration continuity across deployed Low Water Crossing systems during organizational transition.
+- Translated legacy system behavior, reporting logic, and field constraints to new engineering and operational teams.
+- Supported 3406 platform evolution by bridging historical product knowledge with future-state documentation and validation efforts.
 
-#### Operational Recovery & Field Coordination
+#### Operational Recovery Leadership
 
-- Led data-driven recovery initiative for a large municipal flood warning network operating at reduced capacity, increasing overall system operability from approximately 30% to 65–70% over a one-year period.
-- Performed telemetry health analysis and database cleanup to identify high-impact remediation priorities.
-- Forecasted component replacement requirements based on failure symptom patterns observed in live telemetry data.
-- Developed structured daily field service plans and punchlists for remote field crews, aligning repair sequencing with real-time system diagnostics.
-- Provided structured spreadsheet-based reporting to management to guide resource allocation decisions during concurrent repair and ALERT2 upgrade efforts.
-- Directed parallel ALERT2 upgrade implementation across approximately 20% of system sites while maintaining ongoing recovery momentum.
+- Led large-scale recovery initiative for a degraded municipal flood warning network operating at approximately 30% capacity, restoring system operability to 65–70% over a one-year period.
+- Performed telemetry health analysis, database cleanup, and systemic configuration audits to identify high-impact remediation priorities.
+- Developed structured field deployment plans and daily punchlists for remote crews, sequencing repairs based on telemetry-derived diagnostics.
+- Forecasted component replacement needs using live data trends to improve repair efficiency and reduce unnecessary field visits.
+- Directed concurrent ALERT2 modernization across ~20% of sites while sustaining ongoing recovery efforts.
+- Delivered structured reporting to management to guide resource allocation decisions during remediation and upgrade phases.
 
-#### Production Coordination & Deployment Readiness
+#### Production Governance & Deployment Integrity
 
-- Enforced full-system validation prior to shipment, ensuring Master controllers, L-Panels, base stations, and peripheral components were tested as integrated deployments rather than isolated assemblies.
-- Coordinated with manufacturing teams to align build sequencing with system-level test requirements through technical influence and cross-functional collaboration.
-- Identified documentation drift and procedural inconsistencies on the production floor; returned nonconforming hardware for correction to maintain configuration integrity.
-- Implemented labeling and packaging improvements to ensure field technicians received clearly organized, deployment-ready system shipments.
-- Functioned as a quality and configuration control gate between manufacturing output and public safety field deployment during organizational transition.
+- Functioned as system-level release gate during manufacturing and shipment cycles to ensure full integrated system validation prior to deployment.
+- Influenced build sequencing to align manufacturing output with complete system test requirements rather than isolated component shipment.
+- Identified documentation inconsistencies and procedural drift; returned nonconforming hardware for correction to protect configuration integrity.
+- Implemented improved labeling and packaging practices to ensure field deployments were organized, intuitive, and installation-ready.
 
 ---
 
 **High Sierra Electronics, Inc. -** ***Systems Integration Specialist (Technical Lead)***  
 ***Grass Valley, CA | May 2017 – Oct 2023***
 
-Led integration and lifecycle support of distributed two-way ALERT2 flood warning and low water crossing systems deployed across municipal and county agencies.
+Advanced from data platform specialist into hardware-integrated systems engineering role, bridging software, telemetry, and physical infrastructure.
 
-- Configured and validated Master/Remote control hierarchies for distributed ALERT2 controller networks, including systems exceeding 150 Master stations and associated Remote control sites.
-- Defined timed, event-driven, and command-driven reporting strategies to ensure reliable propagation of telemetry and control data to central base stations.
-- Validated controller output logic for beacon activation, barrier gate control, and warning device signaling under simulated flood conditions prior to field deployment.
-- Investigated and resolved reporting collisions, duplicate transactions, and missing report conditions within distributed telemetry networks.
-- Conducted system-level root cause analysis across dataloggers, VHF radio transport, repeaters, base stations, cellular backhaul, municipal network environments, and centralized data ingestion workflows.
-- Maintained architectural continuity across multi-year renewable municipal contracts, supporting long-term system stability and operational reliability.
+#### Core Architecture & Master/Remote Integration
 
-#### Engineering Support & Product Evolution
+- Configured and validated distributed two-way ALERT2 Master/Remote controller hierarchies across flood warning networks exceeding 150 Master stations and associated Remote control sites.
+- Defined reporting cadence (timed, event-driven, command-driven) to ensure reliable telemetry propagation to base stations and centralized systems.
+- Validated controller output logic for beacon activation, barrier gate control, and warning device signaling under simulated field conditions.
+- Conducted system-level troubleshooting across dataloggers, VHF transport, repeaters, cellular backhaul, municipal networks, and centralized data workflows.
+- Maintained architectural stability across multi-year renewable municipal contracts.
 
-- Executed hardware refresh and integration update for 5492 camera add-on supporting 3306/3582 Master controller platforms.
-- Identified and validated drop-in replacement camera hardware for obsolescence mitigation.
-- Modified controller programming to support updated hardware integration requirements.
-- Updated integration documentation and test procedures; formally submitted revisions to document control for production release.
-- Operated as delegated engineering resource under senior engineering oversight due to product knowledge continuity.
+#### Product & Engineering Contribution
+
+- Assumed ownership of 5492 camera add-on hardware refresh initiative under senior engineering oversight.
+- Identified and validated drop-in replacement camera hardware to address component obsolescence.
+- Modified controller programming to support updated integration requirements.
+- Updated technical documentation, test procedures, and release artifacts; submitted formal revisions to document control.
+- Administered and structured the RMA program, introducing system-level tracking and process clarity while gaining hands-on hardware diagnostic expertise.
 
 ---
 
 **High Sierra Electronics, Inc. -** ***Data Services Technician***  
 ***Grass Valley, CA | Sep 2012 – May 2017***
 
-Supported hosted environmental telemetry infrastructure and live operational monitoring for distributed municipal networks.
+Hired to become in-house expert for company’s legacy environmental data platform and centralized monitoring systems.
 
-- Monitored real-time flood and system health data via legacy data collection platform, identifying early indicators of component degradation and communication instability.
-- Coordinated directly with remote field technicians to deploy targeted remediation efforts based on telemetry-derived diagnostics.
-- Estimated component replacement requirements using data trend analysis to improve repair efficiency and reduce unnecessary site visits.
-- Maintained on-premise hosted server and network infrastructure supporting centralized data services.
-- Served as internal network administrator for HSE facility, developing foundational expertise in routing, firewall configuration, and secure remote connectivity.
+#### Data Platform & Operational Monitoring Foundation
 
----
+- Became primary internal expert on legacy data collection software; worked directly with vendor on installation, configuration, and issue resolution.
+- Monitored live flood telemetry networks, identifying early indicators of component degradation and communication instability.
+- Coordinated directly with remote field technicians to deploy targeted remediation based on telemetry-derived diagnostics.
+- Performed system health analysis to anticipate hardware replacement needs and reduce reactive support load.
 
-## TECHNICAL FOCUS
+#### IT & Infrastructure Ownership
 
-Distributed Telemetry & Control Architecture  
-Flood Warning & Low Water Crossing Systems  
-HSE 3306 Product Family Controllers  
-Two-Way ALERT / ALERT2 Master/Remote Networks  
-Base Station & Repeater Integration  
-Centralized Data Collection Platforms  
-Cellular Backhaul & Remote Connectivity  
-Multi-Layer Escalation & Root Cause Resolution  
+- Managed company network infrastructure, including firewall configuration, routing, and secure remote access.
+- Executed two ISP upgrades and migrated internal systems from self-hosted infrastructure to Google Workspace cloud environment to improve remote collaboration and resource management.
+- Served as sole IT administrator supporting engineering, operations, and remote employees.
 
 ---
 
