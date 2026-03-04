@@ -3,7 +3,7 @@ title: Anna Bellizzi | Resume
 ---
 <h2>Anna Bellizzi</h2>
 
-<strong>Environmental Telemetry & Flood Warning Systems Specialist</strong><br/>
+<strong>Environmental Monitoring & Telemetry Systems Engineer</strong><br/>
 Nevada City, CA<br/>
 <a href="https://www.linkedin.com/in/anna-bellizzi/">linkedin.com/in/anna-bellizzi</a> | Anna.L.Bellizzi@gmail.com | 415-203-7508
 
@@ -13,9 +13,9 @@ Nevada City, CA<br/>
 
 ### PROFESSIONAL SUMMARY
 
-Systems integration engineer specializing in distributed flood warning and environmental telemetry systems. I solve complex, cross-layer system failures that span controller logic, RF transport, networking environments, and centralized data platforms.  
+Systems engineer with 13+ years supporting distributed environmental monitoring and flood warning networks. Known for resolving complex issues across deployed telemetry systems where sensors, dataloggers, communications networks, and centralized data platforms intersect.
 
-Over 13 years, I have supported the full lifecycle of municipal flood infrastructure — from architecture configuration and deployment validation to operational recovery, modernization, and high-severity escalation response. Frequently trusted as the go-to technical resource for problems that extend beyond single-device failures and require system-level reasoning.
+Experienced working across the lifecycle of field monitoring systems — controller configuration, telemetry diagnostics, deployment validation, and operational recovery. Comfortable in small technical teams where engineers wear multiple hats and take ownership of real systems in the field.
 
 ---
 
@@ -24,83 +24,103 @@ Over 13 years, I have supported the full lifecycle of municipal flood infrastruc
 *Parent company of High Sierra Electronics*  
 ***Hybrid / Remote in Nevada City | Oct 2023 – Dec 2025***
 
-Trusted subject matter expert for legacy High Sierra flood telemetry systems following acquisition. Served as primary technical authority for the most complex and high-priority system issues escalated to executive leadership.
+Retained as the primary subject matter expert for legacy High Sierra flood telemetry systems following acquisition. Served as escalation point for complex failures affecting municipal flood warning infrastructure.
 
-#### Senior Technical Escalation & Organizational Transition
+#### Technical Escalation & Operational Recovery
 
-- Acted as go-to escalation resource for cross-layer failures involving ALERT/ALERT2 networks, base stations, internet transport, and centralized data ingestion workflows.
-- Repeatedly engaged by Director of Technical Services for customer-critical issues requiring system-level analysis beyond standard support pathways.
-- Preserved architectural and configuration continuity across deployed Low Water Crossing systems during organizational transition.
-- Translated legacy system behavior, reporting logic, and field constraints to new engineering and operational teams.
-- Supported 3406 platform evolution by bridging historical product knowledge with future-state documentation and validation efforts.
+• Acted as go-to escalation resource for cross-layer failures spanning ALERT / ALERT2 telemetry networks, base stations, RF transport, cellular backhaul, and centralized data systems  
+• Led recovery of a **400+ site municipal flood warning network** operating at ~30% capacity, restoring operability to ~70% through telemetry analysis, configuration auditing, and coordinated field remediation  
+• Developed structured deployment plans and diagnostic punchlists for remote field crews based on live telemetry system behavior  
+• Forecasted component replacement needs using system data trends to improve repair efficiency and reduce unnecessary field visits  
 
-#### Operational Recovery Leadership
+#### Configuration Governance & System Integrity
 
-- Led large-scale recovery initiative for a degraded municipal flood warning network operating at approximately 30% capacity, restoring system operability to 65–70% over a one-year period.
-- Performed telemetry health analysis, database cleanup, and systemic configuration audits to identify high-impact remediation priorities.
-- Developed structured field deployment plans and daily punchlists for remote crews, sequencing repairs based on telemetry-derived diagnostics.
-- Forecasted component replacement needs using live data trends to improve repair efficiency and reduce unnecessary field visits.
-- Directed concurrent ALERT2 modernization across ~20% of sites while sustaining ongoing recovery efforts.
-- Delivered structured reporting to management to guide resource allocation decisions during remediation and upgrade phases.
+• Identified configuration drift and documentation inconsistencies across long-lived telemetry deployments where multiple hardware generations were in operation  
+• Recognized and addressed **template divergence across deployments**, a common scaling issue in distributed monitoring systems where site-specific program modifications accumulate over time  
+• Functioned as system-level release gate during manufacturing cycles, ensuring integrated validation prior to deployment  
+• Preserved architectural continuity across deployed Low Water Crossing systems during organizational transition  
 
-#### Production Governance & Deployment Integrity
-
-- Functioned as system-level release gate during manufacturing and shipment cycles to ensure full integrated system validation prior to deployment.
-- Influenced build sequencing to align manufacturing output with complete system test requirements rather than isolated component shipment.
-- Identified documentation inconsistencies and procedural drift; returned nonconforming hardware for correction to protect configuration integrity.
-- Implemented improved labeling and packaging practices to ensure field deployments were organized, intuitive, and installation-ready.
 
 ---
 
 **High Sierra Electronics, Inc. -** ***Systems Integration Specialist (Technical Lead)***  
 ***Grass Valley, CA | May 2017 – Oct 2023***
 
-Advanced from data platform specialist into hardware-integrated systems engineering role, bridging software, telemetry, and physical infrastructure.
+Advanced into a systems engineering role bridging hardware, telemetry infrastructure, and data systems across distributed flood monitoring networks.
 
-#### Core Architecture & Master/Remote Integration
+#### Network Architecture & Controller Integration
 
-- Configured and validated distributed two-way ALERT2 Master/Remote controller hierarchies across flood warning networks exceeding 150 Master stations and associated Remote control sites.
-- Defined reporting cadence (timed, event-driven, command-driven) to ensure reliable telemetry propagation to base stations and centralized systems.
-- Validated controller output logic for beacon activation, barrier gate control, and warning device signaling under simulated field conditions.
-- Conducted system-level troubleshooting across dataloggers, VHF transport, repeaters, cellular backhaul, municipal networks, and centralized data workflows.
-- Maintained architectural stability across multi-year renewable municipal contracts.
+• Configured and validated distributed ALERT2 Master / Remote controller hierarchies across municipal flood monitoring networks supporting **400+ field stations**  
+• Integrated environmental instrumentation using **dataloggers, SDI-12 sensors, pulse inputs, and telemetry transport systems**  
+• Defined reporting cadence (timed, event-driven, command-driven) to ensure reliable telemetry propagation to base stations and centralized monitoring systems  
+• Conducted system-level troubleshooting across dataloggers, RF repeaters, cellular backhaul, municipal networks, and centralized data workflows  
 
-#### Product & Engineering Contribution
+#### Engineering & Product Contribution
 
-- Assumed ownership of 5492 camera add-on hardware refresh initiative under senior engineering oversight.
-- Identified and validated drop-in replacement camera hardware to address component obsolescence.
-- Modified controller programming to support updated integration requirements.
-- Updated technical documentation, test procedures, and release artifacts; submitted formal revisions to document control.
-- Administered and structured the RMA program, introducing system-level tracking and process clarity while gaining hands-on hardware diagnostic expertise.
+• Led hardware refresh initiative for camera add-on product under senior engineering oversight, identifying replacement components and modifying controller programming to support new integration requirements  
+• Updated technical documentation, test procedures, and release artifacts through formal document control processes  
+• Administered and structured the RMA program, gaining hands-on diagnostic experience with a wide range of deployed instrumentation  
+
 
 ---
 
 **High Sierra Electronics, Inc. -** ***Data Services Technician***  
 ***Grass Valley, CA | Sep 2012 – May 2017***
 
-Hired to become in-house expert for company’s legacy environmental data platform and centralized monitoring systems.
+Hired to support the company’s centralized environmental data platform and telemetry monitoring systems.
 
-#### Data Platform & Operational Monitoring Foundation
+• Became primary internal expert on legacy data collection software supporting deployed flood monitoring networks  
+• Monitored live telemetry systems to identify early indicators of component degradation and communication instability  
+• Coordinated with remote field technicians to deploy targeted remediation based on telemetry-derived diagnostics  
 
-- Became primary internal expert on legacy data collection software; worked directly with vendor on installation, configuration, and issue resolution.
-- Monitored live flood telemetry networks, identifying early indicators of component degradation and communication instability.
-- Coordinated directly with remote field technicians to deploy targeted remediation based on telemetry-derived diagnostics.
-- Performed system health analysis to anticipate hardware replacement needs and reduce reactive support load.
+#### IT & Infrastructure
 
-#### IT & Infrastructure Ownership
+• Managed company network infrastructure including firewall configuration, routing, and remote access  
+• Executed ISP migrations and transitioned internal systems to Google Workspace  
+• Served as sole IT administrator supporting engineering, operations, and remote staff  
 
-- Managed company network infrastructure, including firewall configuration, routing, and secure remote access.
-- Executed two ISP upgrades and migrated internal systems from self-hosted infrastructure to Google Workspace cloud environment to improve remote collaboration and resource management.
-- Served as sole IT administrator supporting engineering, operations, and remote employees.
+
+---
+
+## Independent Projects
+
+### Jones Bar Weather Station Data Pipeline | 2025–Present
+
+Designed and operate a personal environmental monitoring data pipeline built on a Raspberry Pi. Ingests weather station data via API, stores measurements in a private database, and publishes structured JSON and CSV outputs to a public site on a scheduled basis.
+
+Site: data.annabellizzi.com
+
+### RAG Prototype | 2025–Present
+
+Built a small retrieval-augmented generation prototype to gain hands-on experience with AI-assisted development tools and modern software workflows.
+
+---
+
+## Technical Skills
+
+### Environmental Monitoring & Telemetry
+Distributed monitoring networks • ALERT / ALERT2 RF telemetry • Dataloggers and environmental instrumentation • SDI-12 sensor integration • RF / VHF transport • Cellular telemetry • Off-grid power systems
+
+### Communications & Protocols
+MQTT • FTP • HTTP / HTTPS • SDI-12 • TCP/IP networking
+
+### Programming & Data
+Python (pandas, numpy) • JavaScript • JSON / CSV data pipelines • CRBasic (in progress)
+
+### Tools & Platforms
+Microsoft 365 • Google Workspace • Jira • Confluence • GitHub / GitHub Actions • Raspberry Pi • AI-assisted development tools
+
+### Systems
+Network administration • firewall configuration • remote infrastructure management
 
 ---
 
 ## EDUCATION
 
-B.S., Computer Science — California State University, Monterey Bay  
-Mechatronics Certificate — Sierra College  
-Electro-Mechanical Skills Certificate — Sierra College  
-B.A., Journalism — Hawaii Pacific University  
+**B.S., Computer Science** — California State University, Monterey Bay  
+Best Overall Capstone — PTZ camera integration system for emergency road safety monitoring
 
-<u><b>Best Overall Capstone - CSU Monterey Bay Computer Science Degree Program</b></u>
-Recognized for developing a PTZ camera integration system supporting emergency road safety and public works monitoring.
+**Mechatronics Certificate** — Sierra College  
+**Electro-Mechanical Skills Certificate** — Sierra College  
+
+**B.A., Journalism** — Hawaii Pacific University
