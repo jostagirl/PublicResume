@@ -64,8 +64,8 @@ Hired to support the company’s centralized environmental data platform and tel
 
 • Primary internal expert on legacy data collection software supporting deployed flood monitoring networks  
 • Monitored live telemetry systems to identify early indicators of site degradation and communication instability  
-Worked directly with monitoring customers to interpret telemetry data, troubleshoot station behavior, and verify system performance through centralized monitoring software
-• Configured and tuned alarm thresholds and notification workflows within the central monitoring platform to support flood warning operations
+Worked directly with monitoring customers to interpret telemetry data, troubleshoot station behavior, and verify system performance through centralized monitoring software  
+• Configured and tuned alarm thresholds and notification workflows within the central monitoring platform to support flood warning operations  
 • Coordinated with remote field technicians to deploy targeted remediation based on telemetry-derived diagnostics  
 
 #### IT & Infrastructure 
