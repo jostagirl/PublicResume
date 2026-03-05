@@ -14,7 +14,6 @@ Nevada City, CA<br/>
 ### PROFESSIONAL SUMMARY
 
 Systems engineer with 13+ years supporting distributed environmental monitoring and flood warning networks. Known for resolving complex issues across deployed telemetry systems where sensors, dataloggers, communications networks, and centralized data platforms intersect.
-
 Experienced working across the lifecycle of field monitoring systems — controller configuration, telemetry diagnostics, deployment validation, and operational recovery. Comfortable in small technical teams where engineers work across multiple parts of the system and take ownership of real deployments in the field.
 
 ---
@@ -66,7 +65,7 @@ Hired to support the company’s centralized environmental data platform and tel
 • Monitored live telemetry systems to identify early indicators of site degradation and communication instability  
 Worked directly with monitoring customers to interpret telemetry data, troubleshoot station behavior, and verify system performance through centralized monitoring software  
 • Configured and tuned alarm thresholds and notification workflows within the central monitoring platform to support flood warning operations  
-• Coordinated with remote field technicians to deploy targeted remediation based on telemetry-derived diagnostics  
+• Coordinated with remote field technicians to deploy targeted remediation based on data-driven diagnostics  
 
 #### IT & Infrastructure 
 • Managed company network infrastructure including firewall configuration, routing, and remote access  
