@@ -1,10 +1,17 @@
-# Anna Bellizzi
-Nevada City, CA | Remote  
-LinkedIn: [insert link]  
+---
+title: Anna Bellizzi | Resume
+---
+<h2>Anna Bellizzi</h2>
+
+<strong>Environmental Monitoring & Telemetry Systems Engineer</strong><br/>
+Nevada City, CA<br/>
+<a href="https://www.linkedin.com/in/anna-bellizzi/">linkedin.com/in/anna-bellizzi</a> | Anna.L.Bellizzi@gmail.com | 415-203-7508
+
+<div class="resume-updated-sticky"><b>Updated March 2026</b></div>
 
 ---
 
-## Professional Summary
+### PROFESSIONAL SUMMARY
 
 Technical systems specialist with 13+ years of experience troubleshooting complex deployed systems and resolving customer reported technical issues. Experienced diagnosing failures across hardware instrumentation, configuration software, and telemetry data systems. Known for reproducing software defects, analyzing system behavior, and working with engineering teams to diagnose and resolve product issues. Comfortable operating in fast paced environments handling critical customer escalations and investigating complex system behavior.
 
@@ -38,39 +45,26 @@ Cross team collaboration with engineering and support teams
 - Build small analysis scripts and tools using Python to explore and validate system behavior.
 
 ---
-
-## Professional Experience
-
-### High Sierra Electronics / Advanced Environmental Monitoring  
-Systems Integration Specialist | Technical Escalation Support  
-Grass Valley, CA
-
-Investigated and resolved complex issues affecting deployed environmental monitoring systems used by government agencies, utilities, and infrastructure operators.
-
-Key responsibilities and achievements:
-
-- Troubleshot customer reported issues across deployed monitoring systems including sensors, firmware configuration tools, and telemetry data acquisition systems.
-- Investigated system behavior and reproduced reported issues to isolate root causes and document reproducible scenarios for engineering teams.
-- Reported suspected software defects in configuration applications after reproducing user reported issues and validating system behavior.
-- Analyzed telemetry data and system outputs to diagnose abnormal sensor readings, configuration errors, and system failures.
-- Served as escalation support for complex technical issues requiring deeper investigation beyond standard support workflows.
-- Collaborated with engineering teams by documenting issue behavior, test results, and system conditions affecting deployed systems.
-- Assisted customers troubleshooting configuration, integration, and deployment issues involving environmental monitoring equipment and data systems.
+### PROFESSIONAL EXPERIENCE
+**Advanced Environmental Monitoring (AEM) -** ***Integration Specialist (HSE SME)***  
+*Parent company of High Sierra Electronics*  
+***Hybrid / Remote in Nevada City | Oct 2023 – Dec 2025***
 
 ---
+**High Sierra Electronics, Inc. -** ***Systems Integration Specialist (Technical Lead)***  
+***Grass Valley, CA | May 2017 – Oct 2023***
 
-## Technical Projects
+---
+**High Sierra Electronics, Inc. -** ***Data Services Technician***  
+***Grass Valley, CA | Sep 2012 – May 2017***
 
-### JonesBarWX Environmental Telemetry Project
+#### Independent Projects
 
-Designed and implemented a personal environmental telemetry system using Raspberry Pi hardware to collect, store, and analyze environmental data.
+**Personal Weather Station Data Pipeline | 2025–Present**  
+Designed and operate a small environmental monitoring data pipeline running on a Raspberry Pi. Ingests home weather station data via API, stores measurements in a private database, and publishes structured JSON and CSV outputs to a public site on a scheduled basis.  Site: data.annabellizzi.com
 
-Project components include:
-
-- Python scripts for data ingestion and data analysis
-- MariaDB database for telemetry data storage
-- Linux system configuration and troubleshooting
-- Investigation of hardware behavior and data pipeline reliability
+**RAG Prototype | February 2026**  
+Built a small retrieval-augmented generation prototype in Python as part of a self-directed AI curriculum. Implemented embedding ranking, tokenization, and context retrieval to understand how RAG tuning affects LLM response tone, accuracy, and confidence. Shifted understanding of AI tools from user to practitioner, directly informing my usage of AI-assisted development tools in technical workflows.
 
 ---
 
@@ -93,7 +87,12 @@ HTML / CSS / JavaScript (academic exposure)
 
 ---
 
-## Education
+### EDUCATION
 
-BA Journalism  
-Hawaii Pacific University
+**B.S., Computer Science** — California State University, Monterey Bay  
+Best Overall Capstone — PTZ camera integration system for emergency road safety monitoring
+
+**Mechatronics Certificate** — Sierra College  
+**Electro-Mechanical Skills Certificate** — Sierra College  
+
+**B.A., Journalism** — Hawaii Pacific University
