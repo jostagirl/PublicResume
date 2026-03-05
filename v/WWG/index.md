@@ -26,18 +26,17 @@ Experienced working across the lifecycle of field monitoring systems — control
 
 Retained as a subject matter expert for legacy High Sierra flood telemetry systems following acquisition. Served as escalation point for complex failures affecting municipal flood warning infrastructure.
 
-**Technical Escalation & Operational Recovery**  
+### Technical Escalation & Operational Recovery  
 • Acted as go-to escalation resource for cross-layer failures spanning ALERT / ALERT2 telemetry networks, base stations, RF transport, cellular backhaul, and centralized data systems  
 • Led recovery of a 300+ site municipal flood warning network operating at ~30% capacity, restoring operability to ~70% through telemetry analysis, configuration auditing, and coordinated field remediation  
 • Developed structured deployment plans and diagnostic punchlists for remote field crews based on live telemetry system behavior  
 • Forecasted component replacement needs using system data trends to improve repair efficiency and reduce unnecessary field visits  
 
-**Configuration Governance & System Integrity**  
+### Configuration Governance & System Integrity  
 • Identified configuration drift and documentation inconsistencies across long-lived telemetry deployments where multiple hardware generations were in operation  
 • Recognized and addressed template divergence in distributed monitoring systems where site-specific program modifications accumulate over time  
 • Functioned as system-level release gate during manufacturing cycles, ensuring integrated validation prior to deployment  
 • Preserved architectural continuity across deployed Low Water Crossing systems during organizational transition  
-
 
 ---
 
@@ -46,16 +45,15 @@ Retained as a subject matter expert for legacy High Sierra flood telemetry syste
 
 Advanced into a systems engineering role bridging hardware, telemetry infrastructure, and data systems across distributed flood monitoring networks.
 
-**Network Architecture & Controller Integration**  
+### Network Architecture & Controller Integration  
 • Configured and validated distributed ALERT2 Master / Remote controller hierarchies across several multi-site municipal monitoring systems.   
 • Defined reporting cadence (timed, event-driven, command-driven) to ensure reliable telemetry propagation to base stations and centralized monitoring systems  
 • Conducted system-level troubleshooting across transmitters, RF repeaters, cellular backhaul, municipal networks, and centralized data workflows  
 
-**Engineering & Product Contribution**  
+### Engineering & Product Contribution 
 • Led hardware refresh initiative for camera add-on product under senior engineering oversight, identifying replacement components and modifying controller programming to support new integration requirements  
 • Updated technical documentation, test procedures, and release artifacts through formal document control processes  
 • Administered and structured the RMA program, gaining hands-on diagnostic experience with a wide range of deployed instrumentation  
-
 
 ---
 
@@ -64,11 +62,11 @@ Advanced into a systems engineering role bridging hardware, telemetry infrastruc
 
 Hired to support the company’s centralized environmental data platform and telemetry monitoring systems.
 
-• Became primary internal expert on legacy data collection software supporting deployed flood monitoring networks  
-• Monitored live telemetry systems to identify early indicators of component degradation and communication instability  
-• Coordinated with remote field technicians to deploy targeted remediation based on telemetry-derived diagnostics  
+• Primary internal expert on legacy data collection software supporting deployed flood monitoring networks  
+• Monitored live telemetry systems to identify early indicators of site degradation and communication instability  
+• Coordinated with remote field technicians to deploy targeted remediation based on data-driven diagnostics  
 
-**IT & Infrastructure**  
+### IT & Infrastructure 
 • Managed company network infrastructure including firewall configuration, routing, and remote access  
 • Executed ISP migrations and transitioned internal systems to Google Workspace  
 • Served as sole IT administrator supporting engineering, operations, and remote staff  
