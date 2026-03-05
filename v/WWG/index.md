@@ -26,14 +26,14 @@ Experienced working across the lifecycle of field monitoring systems — control
 
 Retained as a subject matter expert for legacy High Sierra flood telemetry systems following acquisition. Served as escalation point for complex failures affecting municipal flood warning infrastructure.
 
-** Technical Escalation & Operational Recovery **
+**Technical Escalation & Operational Recovery**
 
 • Acted as go-to escalation resource for cross-layer failures spanning ALERT / ALERT2 telemetry networks, base stations, RF transport, cellular backhaul, and centralized data systems  
 • Led recovery of a 300+ site municipal flood warning network operating at ~30% capacity, restoring operability to ~70% through telemetry analysis, configuration auditing, and coordinated field remediation  
 • Developed structured deployment plans and diagnostic punchlists for remote field crews based on live telemetry system behavior  
 • Forecasted component replacement needs using system data trends to improve repair efficiency and reduce unnecessary field visits  
 
-** Configuration Governance & System Integrity **
+**Configuration Governance & System Integrity**
 
 • Identified configuration drift and documentation inconsistencies across long-lived telemetry deployments where multiple hardware generations were in operation  
 • Recognized and addressed template divergence in distributed monitoring systems where site-specific program modifications accumulate over time  
@@ -48,13 +48,13 @@ Retained as a subject matter expert for legacy High Sierra flood telemetry syste
 
 Advanced into a systems engineering role bridging hardware, telemetry infrastructure, and data systems across distributed flood monitoring networks.
 
-** Network Architecture & Controller Integration **
+**Network Architecture & Controller Integration**
 
 • Configured and validated distributed ALERT2 Master / Remote controller hierarchies across several multi-site municipal monitoring systems.   
 • Defined reporting cadence (timed, event-driven, command-driven) to ensure reliable telemetry propagation to base stations and centralized monitoring systems  
 • Conducted system-level troubleshooting across transmitters, RF repeaters, cellular backhaul, municipal networks, and centralized data workflows  
 
-** Engineering & Product Contribution **
+**Engineering & Product Contribution**
 
 • Led hardware refresh initiative for camera add-on product under senior engineering oversight, identifying replacement components and modifying controller programming to support new integration requirements  
 • Updated technical documentation, test procedures, and release artifacts through formal document control processes  
@@ -72,7 +72,7 @@ Hired to support the company’s centralized environmental data platform and tel
 • Monitored live telemetry systems to identify early indicators of component degradation and communication instability  
 • Coordinated with remote field technicians to deploy targeted remediation based on telemetry-derived diagnostics  
 
-** IT & Infrastructure **
+**IT & Infrastructure**
 
 • Managed company network infrastructure including firewall configuration, routing, and remote access  
 • Executed ISP migrations and transitioned internal systems to Google Workspace  
@@ -83,13 +83,13 @@ Hired to support the company’s centralized environmental data platform and tel
 
 ### Independent Projects
 
-** Personal Weather Station Data Pipeline | 2025–Present **
+**Personal Weather Station Data Pipeline | 2025–Present**
 
 Designed and operate a small environmental monitoring data pipeline running on a Raspberry Pi. Ingests home weather station data via API, stores measurements in a private database, and publishes structured JSON and CSV outputs to a public site on a scheduled basis.
 
 Site: data.annabellizzi.com
 
-** RAG Prototype | February 2026 **
+**RAG Prototype | February 2026**
 
 Built a small retrieval-augmented generation prototype in Python as part of a self-directed AI curriculum. Implemented embedding ranking, tokenization, and context retrieval to understand how RAG tuning affects LLM response tone, accuracy, and confidence. Shifted understanding of AI tools from user to practitioner, directly informing my usage of AI-assisted development tools in technical workflows.
 
@@ -97,16 +97,16 @@ Built a small retrieval-augmented generation prototype in Python as part of a se
 
 ### Technical Skills
 
-** Environmental Monitoring & Telemetry **
+**Environmental Monitoring & Telemetry**
 Distributed monitoring networks • ALERT / ALERT2 RF telemetry • Dataloggers and transmitters • SDI-12 sensors • Rain gauges • water level sensors • Cellular telemetry
 
-** Communications & Protocols **
+**Communications & Protocols**
 FTP • HTTP / HTTPS • SDI-12 • TCP/IP networking
 
-** Programming & Data **
+**Programming & Data**
 Python (pandas, numpy) • JavaScript • JSON / CSV data pipelines • MySQL/SQL
 
-** Tools & Platforms **
+**Tools & Platforms**
 Microsoft 365 • Google Workspace • Jira • Confluence • GitHub / GitHub Actions • Raspberry Pi • AI-assisted development tools
 
 ---
