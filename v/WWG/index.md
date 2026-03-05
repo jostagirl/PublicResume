@@ -15,7 +15,7 @@ Nevada City, CA<br/>
 
 Systems engineer with 13+ years supporting distributed environmental monitoring and flood warning networks. Known for resolving complex issues across deployed telemetry systems where sensors, dataloggers, communications networks, and centralized data platforms intersect.
 
-Experienced working across the lifecycle of field monitoring systems — controller configuration, telemetry diagnostics, deployment validation, and operational recovery. Comfortable in small technical teams where engineers wear multiple hats and take ownership of real systems in the field.
+Experienced working across the lifecycle of field monitoring systems — controller configuration, telemetry diagnostics, deployment validation, and operational recovery. Comfortable in small technical teams where engineers are operationally flexible and take ownership of real systems in the field.
 
 ---
 
@@ -24,19 +24,19 @@ Experienced working across the lifecycle of field monitoring systems — control
 *Parent company of High Sierra Electronics*  
 ***Hybrid / Remote in Nevada City | Oct 2023 – Dec 2025***
 
-Retained as the primary subject matter expert for legacy High Sierra flood telemetry systems following acquisition. Served as escalation point for complex failures affecting municipal flood warning infrastructure.
+Retained as a subject matter expert for legacy High Sierra flood telemetry systems following acquisition. Served as escalation point for complex failures affecting municipal flood warning infrastructure.
 
 #### Technical Escalation & Operational Recovery
 
 • Acted as go-to escalation resource for cross-layer failures spanning ALERT / ALERT2 telemetry networks, base stations, RF transport, cellular backhaul, and centralized data systems  
-• Led recovery of a **400+ site municipal flood warning network** operating at ~30% capacity, restoring operability to ~70% through telemetry analysis, configuration auditing, and coordinated field remediation  
+• Led recovery of a 300+ site municipal flood warning network operating at ~30% capacity, restoring operability to ~70% through telemetry analysis, configuration auditing, and coordinated field remediation  
 • Developed structured deployment plans and diagnostic punchlists for remote field crews based on live telemetry system behavior  
 • Forecasted component replacement needs using system data trends to improve repair efficiency and reduce unnecessary field visits  
 
 #### Configuration Governance & System Integrity
 
 • Identified configuration drift and documentation inconsistencies across long-lived telemetry deployments where multiple hardware generations were in operation  
-• Recognized and addressed **template divergence across deployments**, a common scaling issue in distributed monitoring systems where site-specific program modifications accumulate over time  
+• Recognized and addressed template divergence in distributed monitoring systems where site-specific program modifications accumulate over time  
 • Functioned as system-level release gate during manufacturing cycles, ensuring integrated validation prior to deployment  
 • Preserved architectural continuity across deployed Low Water Crossing systems during organizational transition  
 
@@ -50,10 +50,9 @@ Advanced into a systems engineering role bridging hardware, telemetry infrastruc
 
 #### Network Architecture & Controller Integration
 
-• Configured and validated distributed ALERT2 Master / Remote controller hierarchies across municipal flood monitoring networks supporting **400+ field stations**  
-• Integrated environmental instrumentation using **dataloggers, SDI-12 sensors, pulse inputs, and telemetry transport systems**  
+• Configured and validated distributed ALERT2 Master / Remote controller hierarchies across municipal flood monitoring networks, concurrently supporting several multi-site systems.   
 • Defined reporting cadence (timed, event-driven, command-driven) to ensure reliable telemetry propagation to base stations and centralized monitoring systems  
-• Conducted system-level troubleshooting across dataloggers, RF repeaters, cellular backhaul, municipal networks, and centralized data workflows  
+• Conducted system-level troubleshooting across transmitters, RF repeaters, cellular backhaul, municipal networks, and centralized data workflows  
 
 #### Engineering & Product Contribution
 
@@ -84,9 +83,9 @@ Hired to support the company’s centralized environmental data platform and tel
 
 ## Independent Projects
 
-### Jones Bar Weather Station Data Pipeline | 2025–Present
+### Home Weather Station Data Pipeline | 2025–Present
 
-Designed and operate a personal environmental monitoring data pipeline built on a Raspberry Pi. Ingests weather station data via API, stores measurements in a private database, and publishes structured JSON and CSV outputs to a public site on a scheduled basis.
+Designed and operate a personal environmental monitoring data pipeline built on a Raspberry Pi. Ingests home weather station data via API, stores measurements in a private database, and publishes structured JSON and CSV outputs to a public site on a scheduled basis.
 
 Site: data.annabellizzi.com
 
@@ -99,19 +98,16 @@ Built a small retrieval-augmented generation prototype to gain hands-on experien
 ## Technical Skills
 
 ### Environmental Monitoring & Telemetry
-Distributed monitoring networks • ALERT / ALERT2 RF telemetry • Dataloggers and environmental instrumentation • SDI-12 sensor integration • RF / VHF transport • Cellular telemetry • Off-grid power systems
+Distributed monitoring networks • ALERT / ALERT2 RF telemetry • Dataloggers and transmitters • SDI-12 sensors • RF / VHF transport • Cellular telemetry
 
 ### Communications & Protocols
-MQTT • FTP • HTTP / HTTPS • SDI-12 • TCP/IP networking
+FTP • HTTP / HTTPS • SDI-12 • TCP/IP networking
 
 ### Programming & Data
 Python (pandas, numpy) • JavaScript • JSON / CSV data pipelines • CRBasic (in progress)
 
 ### Tools & Platforms
 Microsoft 365 • Google Workspace • Jira • Confluence • GitHub / GitHub Actions • Raspberry Pi • AI-assisted development tools
-
-### Systems
-Network administration • firewall configuration • remote infrastructure management
 
 ---
 
