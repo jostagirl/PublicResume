@@ -50,7 +50,7 @@ Advanced into a systems engineering role bridging hardware, telemetry infrastruc
 
 #### Network Architecture & Controller Integration
 
-• Configured and validated distributed ALERT2 Master / Remote controller hierarchies across multiple multi-site municipal monitoring systems.   
+• Configured and validated distributed ALERT2 Master / Remote controller hierarchies across several multi-site municipal monitoring systems.   
 • Defined reporting cadence (timed, event-driven, command-driven) to ensure reliable telemetry propagation to base stations and centralized monitoring systems  
 • Conducted system-level troubleshooting across transmitters, RF repeaters, cellular backhaul, municipal networks, and centralized data workflows  
 
@@ -83,15 +83,15 @@ Hired to support the company’s centralized environmental data platform and tel
 
 ## Independent Projects
 
-### Home Weather Station Data Pipeline | 2025–Present
+### Personal Weather Station Data Pipeline | 2025–Present
 
-Designed and operate a small environmental monitoring data pipeline built on a Raspberry Pi. Ingests home weather station data via API, stores measurements in a private database, and publishes structured JSON and CSV outputs to a public site on a scheduled basis.
+Designed and operate a small environmental monitoring data pipeline running on a Raspberry Pi. Ingests home weather station data via API, stores measurements in a private database, and publishes structured JSON and CSV outputs to a public site on a scheduled basis.
 
 Site: data.annabellizzi.com
 
-### RAG Prototype | 2025–Present
+### RAG Prototype | February 2026
 
-Built a small retrieval-augmented generation prototype to gain hands-on experience with AI-assisted development tools and modern software workflows.
+Built a small retrieval-augmented generation prototype in Python as part of a self-directed AI curriculum. Implemented embedding ranking, tokenization, and context retrieval to understand how RAG tuning affects LLM response tone, accuracy, and confidence. Shifted understanding of AI tools from user to practitioner, directly informing my usage of AI-assisted development tools in technical workflows.
 
 ---
 
