@@ -15,7 +15,7 @@ Nevada City, CA<br/>
 
 Systems engineer with 13+ years supporting distributed environmental monitoring and flood warning networks. Known for resolving complex issues across deployed telemetry systems where sensors, dataloggers, communications networks, and centralized data platforms intersect.
 
-Experienced working across the lifecycle of field monitoring systems — controller configuration, telemetry diagnostics, deployment validation, and operational recovery. Comfortable in small technical teams where engineers are operationally flexible and take ownership of real systems in the field.
+Experienced working across the lifecycle of field monitoring systems — controller configuration, telemetry diagnostics, deployment validation, and operational recovery. Comfortable in small technical teams where engineers work across multiple parts of the system and take ownership of real deployments in the field.
 
 ---
 
@@ -50,7 +50,7 @@ Advanced into a systems engineering role bridging hardware, telemetry infrastruc
 
 #### Network Architecture & Controller Integration
 
-• Configured and validated distributed ALERT2 Master / Remote controller hierarchies across municipal flood monitoring networks, concurrently supporting several multi-site systems.   
+• Configured and validated distributed ALERT2 Master / Remote controller hierarchies across multiple multi-site municipal monitoring systems.   
 • Defined reporting cadence (timed, event-driven, command-driven) to ensure reliable telemetry propagation to base stations and centralized monitoring systems  
 • Conducted system-level troubleshooting across transmitters, RF repeaters, cellular backhaul, municipal networks, and centralized data workflows  
 
@@ -85,7 +85,7 @@ Hired to support the company’s centralized environmental data platform and tel
 
 ### Home Weather Station Data Pipeline | 2025–Present
 
-Designed and operate a personal environmental monitoring data pipeline built on a Raspberry Pi. Ingests home weather station data via API, stores measurements in a private database, and publishes structured JSON and CSV outputs to a public site on a scheduled basis.
+Designed and operate a small environmental monitoring data pipeline built on a Raspberry Pi. Ingests home weather station data via API, stores measurements in a private database, and publishes structured JSON and CSV outputs to a public site on a scheduled basis.
 
 Site: data.annabellizzi.com
 
@@ -98,13 +98,13 @@ Built a small retrieval-augmented generation prototype to gain hands-on experien
 ## Technical Skills
 
 ### Environmental Monitoring & Telemetry
-Distributed monitoring networks • ALERT / ALERT2 RF telemetry • Dataloggers and transmitters • SDI-12 sensors • RF / VHF transport • Cellular telemetry
+Distributed monitoring networks • ALERT / ALERT2 RF telemetry • Dataloggers and transmitters • SDI-12 sensors • Rain gauges • water level sensors • Cellular telemetry
 
 ### Communications & Protocols
 FTP • HTTP / HTTPS • SDI-12 • TCP/IP networking
 
 ### Programming & Data
-Python (pandas, numpy) • JavaScript • JSON / CSV data pipelines • CRBasic (in progress)
+Python (pandas, numpy) • JavaScript • JSON / CSV data pipelines • MySQL/SQL
 
 ### Tools & Platforms
 Microsoft 365 • Google Workspace • Jira • Confluence • GitHub / GitHub Actions • Raspberry Pi • AI-assisted development tools
