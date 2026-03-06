@@ -40,7 +40,7 @@ Technical systems specialist with 13+ years of experience troubleshooting critic
 
 ## Professional Experience
 
-**Advanced Environmental Monitoring (AEM) -** ***Integration Specialist — Sustaining SME***  
+### Advanced Environmental Monitoring (AEM) - ***Integration Specialist — Sustaining SME***  
 *Parent company of High Sierra Electronics*  
 ***Hybrid / Remote in Nevada City | Oct 2023 – Dec 2025***
 
@@ -55,7 +55,7 @@ Retained post-acquisition as primary sustaining SME for legacy enterprise teleme
 
 ---
 
-**High Sierra Electronics, Inc. -** ***Systems Integration Specialist (Technical Lead)***  
+### High Sierra Electronics, Inc. - ***Systems Integration Specialist (Technical Lead)***  
 ***Grass Valley, CA | May 2017 – Oct 2023***
 
 Technical lead bridging hardware instrumentation, firmware, and enterprise monitoring software across distributed customer deployments. Primary resource for diagnosing complex product issues and supporting engineering through testing and release cycles.
@@ -69,7 +69,7 @@ Technical lead bridging hardware instrumentation, firmware, and enterprise monit
 
 ---
 
-**High Sierra Electronics, Inc. -** ***Data Services Technician***  
+### High Sierra Electronics, Inc. - ***Data Services Technician***  
 ***Grass Valley, CA | Sep 2012 – May 2017***
 
 Supported the company's centralized enterprise monitoring platform used by municipal customers to operate distributed flood warning networks.
@@ -81,7 +81,7 @@ Supported the company's centralized enterprise monitoring platform used by munic
 
 ---
 
-#### Independent Projects
+## Independent Projects
 
 **Personal Weather Station Data Pipeline | 2025–Present**  
 Self-hosted environmental monitoring pipeline on Raspberry Pi; ingests weather station data via API, stores in MariaDB, and publishes structured JSON/CSV outputs on a schedule. Developed Python scripts for ingestion, diagnostics, and analysis; SQL queries for data investigation. Site: data.annabellizzi.com
@@ -91,7 +91,7 @@ Built a retrieval-augmented generation prototype in Python implementing embeddin
 
 ---
 
-### EDUCATION
+## Education
 
 **B.S., Computer Science** — California State University, Monterey Bay  
 Best Overall Capstone — PTZ camera integration system for emergency road safety monitoring
