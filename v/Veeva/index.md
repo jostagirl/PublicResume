@@ -11,9 +11,9 @@ Nevada City, CA<br/>
 
 ---
 
-### PROFESSIONAL SUMMARY
+## Professional Summary
 
-Technical systems specialist with 13+ years of experience troubleshooting critical issues in complex deployed enterprise software and hardware-software systems. Proven background in diagnosing customer-escalated product issues, reproducing software defects, and collaborating with development, QA, and product teams to drive resolution. Experienced analyzing system behavior through logs, telemetry data, and SQL queries, and building Python diagnostic tools to investigate product issues. Comfortable owning high-visibility escalations in fast-paced environments with demanding reliability expectations.
+Technical systems specialist with 13+ years of experience troubleshooting critical issues in complex deployed enterprise software and hardware-software systems. Proven background in diagnosing customer-escalated product issues, reproducing defects, and collaborating with development, QA, and product teams to drive resolution. Experienced analyzing system behavior through logs, telemetry data, and SQL queries, and building Python diagnostic tools to investigate product issues. Comfortable owning high-visibility escalations in fast-paced environments with demanding reliability expectations.
 
 ---
 
@@ -38,7 +38,7 @@ Technical systems specialist with 13+ years of experience troubleshooting critic
 
 ---
 
-### PROFESSIONAL EXPERIENCE
+## Professional Experience
 
 **Advanced Environmental Monitoring (AEM) -** ***Integration Specialist — Sustaining SME***  
 *Parent company of High Sierra Electronics*  
