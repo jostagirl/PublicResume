@@ -30,8 +30,8 @@ Technical systems specialist with 13+ years of experience troubleshooting critic
 
 ## Relevant Experience for Sustaining Engineer Role
 
-- Troubleshoot critical customer-reported issues in enterprise software products, tracing failures across configuration, network, and application layers.  
-- Reproduce software defects and document system conditions affecting product behavior for engineering investigation and resolution.  
+- Troubleshoot critical customer-reported issues, tracing failures across configuration, network, and application layers.  
+- Reproduce defects and document system conditions affecting product behavior for engineering investigation and resolution.  
 - Analyze system behavior using telemetry data, logs, and SQL queries to isolate root causes of product issues.  
 - Build Python scripts and diagnostic tools to investigate system behavior and support troubleshooting workflows.  
 - Collaborate with engineering, QA, and product teams to diagnose complex issues and drive resolution of defects affecting multiple customers.  
@@ -52,7 +52,7 @@ Retained post-acquisition as primary sustaining subject matter expert for legacy
 - Led recovery of a 300+ site municipal flood warning network operating at approximately 30 percent capacity, restoring operability to roughly 70 percent through telemetry diagnostics, configuration auditing, and coordinated field remediation  
 - Diagnosed configuration drift and template divergence across long-lived distributed deployments where multiple hardware and software generations were in operation  
 - Built Python diagnostic scripts and analysis tools to investigate system behavior, inspect telemetry data, and support troubleshooting workflows  
-- Analyzed system performance trends using SQL queries to forecast component failures and prioritize remediation efforts  
+- Analyzed system performance trends using data analysis to forecast component failures and prioritize remediation efforts  
 - Collaborated with engineering, QA, and product teams to document reproducible defect conditions and drive resolution of issues affecting multiple customer deployments  
 - Functioned as system-level validation checkpoint during manufacturing cycles, identifying product behavior anomalies prior to deployment  
 
@@ -64,8 +64,8 @@ Retained post-acquisition as primary sustaining subject matter expert for legacy
 Advanced into technical lead role bridging hardware instrumentation, firmware, and enterprise monitoring software across distributed customer deployments. Primary resource for diagnosing complex product issues and supporting engineering teams through testing and release cycles.
 
 - Troubleshot critical customer-reported issues across transmitters, RF repeaters, cellular backhaul, network layers, and centralized monitoring software; reproduced issues in controlled environments to isolate root causes  
-- Investigated and documented suspected software defects discovered during troubleshooting of configuration applications used to manage datalogger firmware and telemetry settings  
-- Collaborated with software and firmware engineers to diagnose complex cross-layer issues, providing clear defect documentation, configuration state data, and reproduction steps to enable engineering fixes  
+- Investigated and documented suspected defects discovered during troubleshooting of configuration applications used to manage datalogger firmware and telemetry settings  
+- Collaborated with engineers to diagnose complex cross-layer issues, providing clear defect documentation, configuration state data, and reproduction steps to enable engineering fixes  
 - Conducted comprehensive bench validation of sensors, controllers, firmware, and network components — improving first-time installation success by approximately 75%  
 - Led hardware refresh initiative addressing component obsolescence: identified replacement components, modified controller programming to support new integration requirements, and produced updated validation documentation  
 - Built and maintained repeatable test procedures and diagnostic punchlists used to validate system behavior and support regression testing following product changes  
