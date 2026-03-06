@@ -1,0 +1,19 @@
+Why are you interested in Veeva?
+
+I’m interested in Veeva because the company operates at the intersection of complex software systems and real-world impact. My career has focused on diagnosing and resolving difficult system behavior in deployed environments where hardware, software, and data systems interact. Veeva’s mission of helping life sciences organizations operate more effectively resonates with me, and the Sustaining Engineer role aligns closely with the type of work I enjoy most: investigating complex issues, understanding how systems behave in production, and helping restore reliability for customers.
+
+How do your skills align with the job?
+
+For most of my career I have worked in roles centered on diagnosing complex system issues in deployed monitoring networks. I served as a technical escalation resource responsible for investigating failures that crossed multiple layers of the system, including hardware instrumentation, configuration software, communications infrastructure, and centralized monitoring platforms.
+
+This work involved reproducing reported issues, analyzing telemetry data and system behavior, documenting reproducible defects, and determining when issues required engineering investigation. I frequently worked directly with customers and internal engineering teams to isolate root causes and restore system functionality.
+
+In addition to my professional experience, I build and maintain a personal telemetry data pipeline project using Python, SQL, and Linux systems. This work keeps me actively engaged with debugging system behavior, working with data pipelines, and building small diagnostic tools. The combination of field troubleshooting experience and ongoing technical experimentation aligns well with the investigative and collaborative nature of a sustaining engineering role.
+
+Additional information
+
+My background is somewhat unusual in that I developed my technical skills through years of hands-on work supporting real-world monitoring systems rather than through a traditional software engineering path. That experience shaped how I approach technical problems. I’m comfortable stepping into messy situations where systems are not behaving as expected, gathering evidence from data and logs, reproducing issues, and working collaboratively with engineering teams to identify root causes.
+
+Over time I became the person my director would ask to investigate escalated system issues that were difficult to diagnose. I often served as a triage point before problems were escalated to engineering, helping determine whether the issue was related to configuration, infrastructure, or a potential product defect.
+
+I’m particularly interested in roles where I can apply that investigative mindset to complex software systems and continue expanding my technical skills while contributing to reliable products and positive customer outcomes.
