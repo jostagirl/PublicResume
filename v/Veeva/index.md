@@ -3,7 +3,7 @@ title: Anna Bellizzi | Resume
 ---
 <h2>Anna Bellizzi</h2>
 
-<strong>Sustaining Software Engineer — Enterprise Systems & Technical Support</strong><br/>
+<strong>Systems Integration Engineer | Technical Escalations & Troubleshooting</strong><br/>
 Nevada City, CA<br/>
 <a href="https://www.linkedin.com/in/anna-bellizzi/">linkedin.com/in/anna-bellizzi</a> | Anna.L.Bellizzi@gmail.com | 415-203-7508
 
@@ -13,7 +13,7 @@ Nevada City, CA<br/>
 
 ## Professional Summary
 
-Technical systems specialist with 13+ years of experience troubleshooting critical issues in complex deployed enterprise software and hardware-software systems. Proven background in diagnosing customer-escalated product issues, reproducing defects, and collaborating with development, QA, and product teams to drive resolution. Experienced analyzing system behavior through logs, telemetry data, and SQL queries, and building Python diagnostic tools to investigate product issues. Comfortable owning high-visibility escalations in fast-paced environments with demanding reliability expectations.
+Technical systems specialist with 13+ years of experience troubleshooting critical issues in complex deployed enterprise systems spanning software, hardware instrumentation, and telemetry infrastructure. Proven background in diagnosing and troubleshooting customer-reported product issues, reproducing defects, and collaborating with development, QA, and product teams to drive resolution. Experienced analyzing system behavior through logs, telemetry data, and SQL queries, and building Python diagnostic tools to investigate product issues. Comfortable owning high-visibility escalations in fast-paced environments with demanding reliability expectations.
 
 ---
 
