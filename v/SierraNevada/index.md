@@ -20,16 +20,16 @@ Functional systems owner with 13+ years of experience at the intersection of ope
 
 ### CORE COMPETENCIES
 
-Systems ownership and configuration governance | Business process translation into system behavior | Workflow design, standardization, and continuous improvement | Cross-functional stakeholder alignment | Data integrity and source-of-truth definition | Integration across hardware, software, and data systems | Technical documentation and configuration management
+Systems ownership and configuration governance - Business process translation into system behavior - Workflow design, standardization, and continuous improvement - Cross-functional stakeholder alignment - Data integrity and source-of-truth definition - Integration across hardware, software, and data systems - Technical documentation and configuration management
 
 ---
 ### PROFESSIONAL EXPERIENCE
 **High Sierra Electronics, Inc. & Advanced Environmental Monitoring (AEM)**  
 *High Sierra Electronics joined the portfolio company AEM in 2020* 
  
-Integration Specialist – Hybrid / Remote | Oct 2023 – Dec 2025  
-Systems Integration Specialist – On-Site / Hybrid | May 2017 – Oct 2023  
-Data Services Technician – On-Site | Sep 2012 – May 2017  
+**Integration Specialist** – Hybrid / Remote | Oct 2023 – Dec 2025  
+**Systems Integration Specialist** – On-Site / Hybrid 		| May 2017 – Oct 2023  
+**Data Services Technician** – On-Site | Sep 2012 – May 2017  
 
 - Identified the need to modernize HSE's infrastructure ahead of anticipated growth and acquisition activity. Led full evaluation, deployment, and multi-year administration of Google Workspace as sole IT owner, positioning the organization on a cloud-based platform that simplified the eventual migration into AEM's O365 ecosystem at acquisition
 
@@ -65,7 +65,7 @@ Supported organization of Music in the Mountains’ annual Sierra Brewfest (2018
 ### EDUCATION
 
 **B.S., Computer Science** – California State University, Monterey Bay  
-*Awarded Best Overall Capstone -- PTZ camera integration system for emergency road safety monitoring*
+*Awarded Best Overall Capstone -- PTZ camera integration system for emergency road safety monitoring*  
 **Mechatronics Certificate, Electro-Mechanical Skills Certificate** – Sierra College  
 **B.A., Journalism** – Hawaii Pacific University  
 
