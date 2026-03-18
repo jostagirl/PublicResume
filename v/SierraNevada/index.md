@@ -20,13 +20,11 @@ Functional systems owner with 13+ years of experience at the intersection of ope
 
 ### CORE COMPETENCIES
 
-Systems ownership and configuration governance  
-Business process translation into system behavior  
-Workflow design, standardization, and continuous improvement  
-Cross-functional stakeholder alignment and requirements gathering  
-Data integrity, validation, and source-of-truth definition  
-Integration across hardware, software, and data systems  
-Technical documentation and configuration management  
+| | | |
+|---|---|---|
+| Systems ownership and configuration governance | Business process translation into system behavior | Workflow design, standardization, and continuous improvement |
+| Cross-functional stakeholder alignment | Data integrity and source-of-truth definition | Integration across hardware, software, and data systems |
+| Technical documentation and configuration management | | | 
 
 ---
 ### PROFESSIONAL EXPERIENCE
@@ -49,7 +47,7 @@ Technical documentation and configuration management
 
 - Identified a critical process gap in RMA intake where requests arrived through untracked channels; designed and implemented a standardized, trackable intake workflow integrated with ERP systems, eliminating cross-department coordination overhead and improving operational visibility
 
-- Designed and supported field implementation of a custom remote gate control solution aligned to customer operational requirements; Prototyped the solution against customer requirements, secured engineering sign-off, documented system behavior and edge case limitations, and presented tradeoffs so the customer could make an informed acceptance decision
+- Designed and supported field implementation of a custom remote gate control solution aligned to customer operational requirements; prototyped the solution against customer requirements, secured engineering sign-off, documented system behavior and edge case limitations, and presented tradeoffs so the customer could make an informed acceptance decision
 
 - Built Python (NumPy, Pandas) workflows to cross-reference failure data against maintenance records and hardware metadata by cleaning and standardizing thousands of inconsistent records to establish data integrity, then producing analysis that informed customer strategy and resource allocation decisions
 
@@ -65,13 +63,11 @@ Technical documentation and configuration management
 **Independent / Community-Based**  
 *2011 – 2023*
 
-- Award-winning homebrewer with experience scaling recipes to commercial brewing systems in collaboration with Bull Mastiff Brewing and BarmHaus Brewing  
+Award-winning homebrewer with experience scaling recipes to commercial brewing systems in collaboration with Bull Mastiff Brewing and BarmHaus Brewing  
 
-- Supported production operations on bottling and canning lines at BarmHaus Brewing and Great Basin Brewing Company, gaining firsthand exposure to manufacturing workflows, quality control, and throughput constraints  
+Supported production operations on bottling and canning lines at BarmHaus Brewing and Great Basin Brewing Company, gaining firsthand exposure to manufacturing workflows, quality control, and throughput constraints  
 
-- Led the Nevada County Homebrewers Club as elected president, managing events, member engagement, and organizational continuity  
-
-- Brought in to assist with organizing Music in the Mountains’ annual Sierra Brewfest in 2018, 2019, and 2020, coordinating logistics and participation for 60+ breweries; introduced a homebrew tasting area and ensured compliance with food and beverage safety requirements and event licensing constraints  
+Supported organization of Music in the Mountains’ annual Sierra Brewfest (2018–2020), coordinating logistics and participation for 60+ breweries; introduced a homebrew tasting program and ensured compliance with food and beverage safety and licensing requirements   
 
 
 ### EDUCATION
