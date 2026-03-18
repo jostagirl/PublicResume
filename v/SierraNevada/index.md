@@ -20,44 +20,16 @@ Functional systems owner with 13+ years of experience at the intersection of ope
 
 ### CORE COMPETENCIES
 
-<table width="100%" cellpadding="3" cellspacing="0" style="border:none; border-collapse:collapse;">
-<tr>
-  <td width="33%">Systems ownership and configuration governance</td>
-  <td width="33%">Business process translation into system behavior</td>
-  <td width="34%">Workflow design, standardization, and continuous improvement</td>
-</tr>
-<tr>
-  <td>Cross-functional stakeholder alignment</td>
-  <td>Data integrity and source-of-truth definition</td>
-  <td>Integration across hardware, software, and data systems</td>
-</tr>
-<tr>
-  <td colspan="3">Technical documentation and configuration management</td>
-</tr>
-</table>
+Systems ownership and configuration governance | Business process translation into system behavior | Workflow design, standardization, and continuous improvement | Cross-functional stakeholder alignment | Data integrity and source-of-truth definition | Integration across hardware, software, and data systems | Technical documentation and configuration management
 
 ---
 ### PROFESSIONAL EXPERIENCE
 **High Sierra Electronics, Inc. & Advanced Environmental Monitoring (AEM)**  
 *High Sierra Electronics joined the portfolio company AEM in 2020* 
  
-<table width="100%" cellpadding="2" cellspacing="0" style="border:none; border-collapse:collapse;">
-<tr>
-  <td width="44%">Integration Specialist</td>
-  <td width="26%">Hybrid / Remote</td>
-  <td>Oct 2023 – Dec 2025</td>
-</tr>
-<tr>
-  <td>Systems Integration Specialist</td>
-  <td>On-Site / Hybrid</td>
-  <td>May 2017 – Oct 2023</td>
-</tr>
-<tr>
-  <td>Data Services Technician</td>
-  <td>On-Site</td>
-  <td>Sep 2012 – May 2017</td>
-</tr>
-</table> 
+Integration Specialist – Hybrid / Remote | Oct 2023 – Dec 2025  
+Systems Integration Specialist – On-Site / Hybrid | May 2017 – Oct 2023  
+Data Services Technician – On-Site | Sep 2012 – May 2017  
 
 - Identified the need to modernize HSE's infrastructure ahead of anticipated growth and acquisition activity. Led full evaluation, deployment, and multi-year administration of Google Workspace as sole IT owner, positioning the organization on a cloud-based platform that simplified the eventual migration into AEM's O365 ecosystem at acquisition
 
@@ -92,24 +64,10 @@ Supported organization of Music in the Mountains’ annual Sierra Brewfest (2018
 
 ### EDUCATION
 
-<table width="100%" cellpadding="3" cellspacing="0" style="border:none; border-collapse:collapse;">
-<tr>
-  <td width="52%"><strong>B.S., Computer Science</strong></td>
-  <td>California State University, Monterey Bay</td>
-</tr>
-<tr>
-  <td><strong>Mechatronics Certificate</strong></td>
-  <td>Sierra College</td>
-</tr>
-<tr>
-  <td><strong>Electro-Mechanical Skills Certificate</strong></td>
-  <td>Sierra College</td>
-</tr>
-<tr>
-  <td><strong>B.A., Journalism</strong></td>
-  <td>Hawaii Pacific University</td>
-</tr>
-</table>
-Best Overall Capstone -- PTZ camera integration system for emergency road safety monitoring
+**B.S., Computer Science** – California State University, Monterey Bay  
+*Awarded Best Overall Capstone -- PTZ camera integration system for emergency road safety monitoring*
+**Mechatronics Certificate, Electro-Mechanical Skills Certificate** – Sierra College  
+**B.A., Journalism** – Hawaii Pacific University  
+
 
 ---
