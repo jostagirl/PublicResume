@@ -30,13 +30,11 @@ Cross-functional collaboration with engineering, operations, and customers
 
 ---
 ### PROFESSIONAL EXPERIENCE
-**Advanced Environmental Monitoring (AEM)**
-*High Sierra Electronics joined the portfolio company AEM*  
+**High SierraElectronics, Inc. & Advanced Environmental Monitoring (AEM)**
+*High Sierra Electronics joined the portfolio company AEM in 2020*  
+
 ***Integration Specialist (High Sierra Electronics SME)***  
 *Hybrid / Remote | Oct 2023 – Dec 2025*
-
-**High Sierra Electronics, Inc.**
-
 ***Systems Integration Specialist (Technical Lead)***
 *On-Site / Hybrid | May 2017 – Oct 2023*
 ***Data Services Technician***  
