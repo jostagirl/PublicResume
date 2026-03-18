@@ -3,7 +3,7 @@ title: Anna Bellizzi | Resume
 ---
 <h2>Anna Bellizzi</h2>
 
-<strong>Environmental Monitoring & Telemetry Systems Engineer</strong><br/>
+<strong>Functional Systems Owner | Operational Technology & Data Integration</strong><br/>
 Nevada City, CA<br/>
 <a href="https://www.linkedin.com/in/anna-bellizzi/">linkedin.com/in/anna-bellizzi</a> | Anna.L.Bellizzi@gmail.com | 415-203-7508
 
@@ -13,56 +13,65 @@ Nevada City, CA<br/>
 
 ### PROFESSIONAL SUMMARY
 
-Systems engineer with 13+ years supporting distributed environmental monitoring and flood warning networks. Known for resolving complex issues across deployed telemetry systems where sensors, dataloggers, communications networks, and centralized data platforms intersect.
-Experienced working across the lifecycle of field monitoring systems — controller configuration, telemetry diagnostics, deployment validation, and operational recovery. Comfortable in small technical teams where engineers work across multiple parts of the system and take ownership of real deployments in the field.
+Functional systems owner with 13+ years of experience at the intersection of operational technology, data integrity, and business process. Built, governed, and recovered systems in complex, cross-functional environments where ownership does not sit cleanly within a single team. Equally fluent in engineering specifications and stakeholder requirements, with the ability to translate between the two when alignment breaks down. Brings end-to-end ownership across the full system lifecycle, from requirements and configuration through deployment, data pipeline integrity, and continuous improvement. Experienced assessing system changes for downstream impacts and aligning configurations to evolving business needs.
+
 
 ---
 
 ### CORE COMPETENCIES
 
-Systems integration across hardware, software, networking, and data
-System-level troubleshooting and root cause analysis
-Pre-deployment configuration, validation, and readiness verification
-Telemetry, IoT, and distributed device systems
-Field-to-cloud data flows and data integrity
-Technical documentation, procedures, and repeatable workflows
-Cross-functional collaboration with engineering, operations, and customers
+Systems ownership and configuration governance  
+Business process translation into system behavior  
+Workflow design, standardization, and continuous improvement  
+Cross-functional stakeholder alignment and requirements gathering  
+Data integrity, validation, and source-of-truth definition  
+Integration across hardware, software, and data systems  
+Technical documentation and configuration management  
 
 ---
 ### PROFESSIONAL EXPERIENCE
-**High SierraElectronics, Inc. & Advanced Environmental Monitoring (AEM)**  
+**High Sierra Electronics, Inc. & Advanced Environmental Monitoring (AEM)**  
 *High Sierra Electronics joined the portfolio company AEM in 2020*  
 
-***Integration Specialist (High Sierra Electronics SME)***  
+***Integration Specialist***  
 *Hybrid / Remote | Oct 2023 – Dec 2025*  
-***Systems Integration Specialist (Technical Lead)***  
+***Systems Integration Specialist***  
 *On-Site / Hybrid | May 2017 – Oct 2023*  
 ***Data Services Technician***  
 *On-Site | Sep 2012 – May 2017*
 
 
-Owned full lifecycle of Google Workspace platform across a 50-person organization -- evaluation, deployment, administration, and eventual migration into parent org's O365 ecosystem at acquisition; served as sole institutional knowledge holder throughout
+- Identified the need to modernize HSE's infrastructure ahead of anticipated growth and acquisition activity. Led full evaluation, deployment, and multi-year administration of Google Workspace as sole IT owner, positioning the organization on a cloud-based platform that simplified the eventual migration into AEM's O365 ecosystem at acquisition
 
-Led a six-month network recovery effort across a 300+ site flood warning system -- coordinating repair, maintenance, installation, and infrastructure workstreams simultaneously to drive operational performance from 30% to 75%
+- Led cross-functional recovery of a 300+ site flood warning network, coordinating manufacturing, field operations, and infrastructure workstreams to restore operational performance from 30% to 70% while developing system-level tracking and prioritization frameworks to manage four concurrent workstreams without rework or resource conflicts
 
-Translated customer requirements and engineering specs into validated system configurations across manufacturing, test, and field deployment -- consistently the person in the room who could hold the full picture when departments had conflicting reads on the same system
+- Translated customer requirements and engineering specifications into validated system configurations across manufacturing, testing, and field deployment, acting as the primary point of alignment when stakeholders had conflicting interpretations of system behavior
 
-Identified a critical process gap in RMA intake where requests arrived through untracked channels, designed a standardized web-based intake workflow, integrated it with the ERP system, and eliminated the cross-building information chase consuming staff time across multiple departments
+- Identified a critical process gap in RMA intake where requests arrived through untracked channels; designed and implemented a standardized, trackable intake workflow integrated with ERP systems, eliminating cross-department coordination overhead and improving operational visibility
 
-Designed and remotely supported field implementation of a custom gate control solution for a traffic barrier system -- prototyped against customer requirements, obtained engineering sign-off, documented operational behavior and edge case limitations, and presented tradeoffs so the customer could make an informed acceptance decision
+- Designed and supported field implementation of a custom remote gate control solution aligned to customer operational requirements; Prototyped the solution against customer requirements, secured engineering sign-off, documented system behavior and edge case limitations, and presented tradeoffs so the customer could make an informed acceptance decision
 
-Built Python/NumPy/Pandas workflows to cross-reference failure data against maintenance records and hardware metadata -- first wrangling and tagging thousands of inconsistently entered records to establish the data integrity the analysis required, then using the clean dataset to answer a business-critical question about failure causation driving customer strategy and resource decisions
+- Built Python (NumPy, Pandas) workflows to cross-reference failure data against maintenance records and hardware metadata by cleaning and standardizing thousands of inconsistent records to establish data integrity, then producing analysis that informed customer strategy and resource allocation decisions
 
-Developed a tagging and reporting framework during network recovery that standardized performance visibility across the full deployment portfolio -- building toward cross-customer diagnostic capability while everyone else was focused on the immediate problem
+- Developed a system-wide tagging and reporting framework during network recovery that standardized performance visibility across the deployment portfolio, enabling cross-system diagnostics and more effective prioritization under active operational constraints
 
-Developed data analysis workflows cross-referencing failure data against maintenance records and hardware metadata to answer a business-critical question about failure causation -- requiring cleanup and tagging of thousands of records before the data could be trusted to drive customer strategy and resource deployment decisions
+- Evaluated competing ERP workflow paths during NetSuite integration, analyzing cross-business-unit adoption patterns, delivering a formal recommendation, and implementing the selected approach; original recommendation later validated and adopted after post-implementation conflicts
 
-Evaluated competing ERP workflow paths during acquisition integration into NetSuite -- researched cross-BU adoption patterns, built a formal recommendation, and implemented the management-selected path; re-worked to originally recommended workflow six months later after post-implementation conflicts confirmed earlier analysis
-
-
-Maintained configuration documentation and project-level READMEs across every work type -- system test, installation, manufacturing, software integration, and corporate transitions -- so work was never trapped in one person's head; formal deliverables released through Jira-based doc control with engineering and manufacturing approval
+- Maintained configuration documentation and project-level READMEs across system testing, manufacturing, deployment, and integration workflows, ensuring knowledge continuity, configuration integrity, and alignment across engineering and operations teams through structured documentation practices  
 
 ---
+### BREWING & OPERATIONS EXPERIENCE
+
+**Independent / Community-Based**  
+*2011 – 2023*
+
+- Award-winning homebrewer with experience scaling recipes to commercial brewing systems in collaboration with Bull Mastiff Brewing and BarmHaus Brewing  
+
+- Supported production operations on bottling and canning lines at BarmHaus Brewing and Great Basin Brewing Company, gaining firsthand exposure to manufacturing workflows, quality control, and throughput constraints  
+
+- Led the Nevada County Homebrewers Club as elected president, managing events, member engagement, and organizational continuity  
+
+- Brought in to assist with organizing Music in the Mountains’ annual Sierra Brewfest in 2018, 2019, and 2020, coordinating logistics and participation for 60+ breweries; introduced a homebrew tasting area and ensured compliance with food and beverage safety requirements and event licensing constraints  
 
 
 ### EDUCATION
