@@ -20,16 +20,20 @@ Functional systems owner with 13+ years of experience at the intersection of ope
 
 ### CORE COMPETENCIES
 
-Systems ownership and configuration governance - Business process translation into system behavior - Workflow design, standardization, and continuous improvement - Cross-functional stakeholder alignment - Data integrity and source-of-truth definition - Integration across hardware, software, and data systems - Technical documentation and configuration management
+Systems ownership and configuration governance • Business process translation into system behavior • Workflow design, standardization, and continuous improvement • Cross-functional stakeholder alignment • Data integrity and source-of-truth definition • Integration across hardware, software, and data systems • Technical documentation and configuration management  
 
 ---
 ### PROFESSIONAL EXPERIENCE
-**High Sierra Electronics, Inc. & Advanced Environmental Monitoring (AEM)**  
+
+**Advanced Environmental Monitoring (AEM) -** ***Integration Specialist (HSE SME)***  
 *High Sierra Electronics joined the portfolio company AEM in 2020* 
- 
-**Integration Specialist** – Hybrid / Remote | Oct 2023 – Dec 2025  
-**Systems Integration Specialist** – On-Site / Hybrid 		| May 2017 – Oct 2023  
-**Data Services Technician** – On-Site | Sep 2012 – May 2017  
+***Hybrid / Remote in Nevada City | Oct 2023 – Dec 2025***
+
+**High Sierra Electronics, Inc. -** ***Systems Integration Specialist (Technical Lead)***  
+***On-Site / Hybrid Grass Valley, CA | May 2017 – Oct 2023***
+
+**High Sierra Electronics, Inc. -** ***Data Services Technician***  
+***On-Site in Grass Valley, CA | Sep 2012 – May 2017***
 
 - Identified the need to modernize HSE's infrastructure ahead of anticipated growth and acquisition activity. Led full evaluation, deployment, and multi-year administration of Google Workspace as sole IT owner, positioning the organization on a cloud-based platform that simplified the eventual migration into AEM's O365 ecosystem at acquisition
 
