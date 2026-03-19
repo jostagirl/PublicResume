@@ -24,7 +24,7 @@ Systems ownership and configuration governance • Business process translation 
 ---
 ### PROFESSIONAL EXPERIENCE
 
-**Advanced Environmental Monitoring (AEM) -** ***Integration Specialist*** Hybrid in Nevada City, CA | *Oct 2023 – Dec 2025  
+**Advanced Environmental Monitoring (AEM) -** ***Integration Specialist*** Remote, Nevada City, CA | *Oct 2023 – Dec 2025  
 *High Sierra Electronics, Inc. joined the portfolio company AEM in 2020*  
 **High Sierra Electronics, Inc. -** ***Systems Integration Specialist*** Grass Valley, CA | *May 2017 – Oct 2023  
 **High Sierra Electronics, Inc. -** ***Data Services Technician*** Grass Valley, CA | *Sep 2012 – May 2017  
