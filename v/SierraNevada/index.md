@@ -15,7 +15,6 @@ Nevada City, CA<br/>
 
 Functional systems owner with 13+ years of experience at the intersection of operational technology, data integrity, and business process. Built, governed, and recovered systems in complex, cross-functional environments where ownership does not sit cleanly within a single team. Equally fluent in engineering specifications and stakeholder requirements, with the ability to translate between the two when alignment breaks down. Brings end-to-end ownership across the full system lifecycle, from requirements and configuration through deployment, data pipeline integrity, and continuous improvement. Experienced assessing system changes for downstream impacts and aligning configurations to evolving business needs.
 
-
 ---
 
 ### CORE COMPETENCIES
@@ -25,15 +24,13 @@ Systems ownership and configuration governance • Business process translation 
 ---
 ### PROFESSIONAL EXPERIENCE
 
-**Advanced Environmental Monitoring (AEM) -** ***Integration Specialist (HSE SME)***  
-*High Sierra Electronics joined the portfolio company AEM in 2020* 
-***Hybrid / Remote in Nevada City | Oct 2023 – Dec 2025***
-
-**High Sierra Electronics, Inc. -** ***Systems Integration Specialist (Technical Lead)***  
-***On-Site / Hybrid Grass Valley, CA | May 2017 – Oct 2023***
-
-**High Sierra Electronics, Inc. -** ***Data Services Technician***  
-***On-Site in Grass Valley, CA | Sep 2012 – May 2017***
+**High Sierra Electronics, Inc. (HSE) -** ***Data Services Technician***  
+On-Site in Grass Valley, CA | *Sep 2012 – May 2017
+**High Sierra Electronics, Inc. -** ***Systems Integration Specialist***  
+On-Site / Hybrid Grass Valley, CA | *May 2017 – Oct 2023
+**Advanced Environmental Monitoring (AEM) -** ***Integration Specialist***  
+*HSE joined the portfolio company AEM in 2020*  
+Hybrid / Remote in Nevada City, CA | *Oct 2023 – Dec 2025
 
 - Identified the need to modernize HSE's infrastructure ahead of anticipated growth and acquisition activity. Led full evaluation, deployment, and multi-year administration of Google Workspace as sole IT owner, positioning the organization on a cloud-based platform that simplified the eventual migration into AEM's O365 ecosystem at acquisition
 
@@ -56,8 +53,7 @@ Systems ownership and configuration governance • Business process translation 
 ---
 ### BREWING & OPERATIONS EXPERIENCE
 
-**Independent / Community-Based**  
-*2011 – 2023*
+**Independent / Community-Based -** *2011 – 2023*
 
 Award-winning homebrewer with experience scaling recipes to commercial brewing systems in collaboration with Bull Mastiff Brewing and BarmHaus Brewing  
 
