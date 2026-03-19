@@ -27,7 +27,7 @@ Systems ownership and configuration governance • Business process translation 
 **Advanced Environmental Monitoring (AEM) -** ***Integration Specialist*** Nevada City, CA | *Oct 2023 – Dec 2025*  
 *High Sierra Electronics, Inc. joined the portfolio company AEM in 2020*  
 **High Sierra Electronics, Inc. -** ***Systems Integration Specialist*** Grass Valley, CA | *May 2017 – Oct 2023*  
-**High Sierra Electronics, Inc. -** ***Data Services Technician*** Grass Valley, CA | *Sep 2012 – May 2017*  
+**High Sierra Electronics, Inc. -** ***Data Services Technician*** Grass Valley, CA | *Oct 2012 – May 2017*  
 
 - Identified the need to modernize HSE's infrastructure ahead of anticipated growth and acquisition activity. Led full evaluation, deployment, and multi-year administration of Google Workspace as sole IT owner, positioning the organization on a cloud-based platform that simplified the eventual migration into AEM's O365 ecosystem at acquisition
 
