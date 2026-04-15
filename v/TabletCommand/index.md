@@ -1,4 +1,3 @@
-```markdown
 # Anna Bellizzi
 **Systems Integration & QA Specialist**
 
