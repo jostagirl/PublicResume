@@ -35,6 +35,7 @@ Systems integration and QA specialist with 13+ years of hands-on experience vali
 **Virtualization** — VMware-hosted software platform support and testing  
 **Data** — SQL/MariaDB; REST API integration; JSON; CSV/tabular data validation  
 
+  
 ---
 #### EXPERIENCE
 
