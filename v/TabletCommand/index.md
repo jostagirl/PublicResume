@@ -34,14 +34,17 @@ Systems integration and QA specialist with 13+ years of hands-on experience vali
 
 ## Technical Tools & Environment
 
-| | |
-|---|---|
-| **Languages** | Python (test automation, data validation, log parsing); Java (CS coursework foundation) |
-| **Dev Tools** | Git; SVN familiarity; VS Code; Eclipse IDE; Jira for issue tracking and agile workflows |
-| **Networking** | TCP/IP fundamentals; networked device integration; protocol-level troubleshooting |
-| **OS Environments** | Linux (command line, systemd, log inspection); Windows engineering environments |
-| **Virtualization** | VMware-hosted software platform support and testing |
-| **Data** | SQL/MariaDB; REST API integration; JSON; CSV/tabular data validation |
+**Languages** — Python (test automation, data validation, log parsing); Java (CS coursework foundation)
+
+**Dev Tools** — Git; SVN familiarity; VS Code; Eclipse IDE; Jira for issue tracking and agile workflows
+
+**Networking** — TCP/IP fundamentals; networked device integration; protocol-level troubleshooting
+
+**OS Environments** — Linux (command line, systemd, log inspection); Windows engineering environments
+
+**Virtualization** — VMware-hosted software platform support and testing
+
+**Data** — SQL/MariaDB; REST API integration; JSON; CSV/tabular data validation
 
 ---
 
