@@ -10,45 +10,33 @@ Nevada City, CA<br/>
 <div class="resume-updated-sticky"><b>Updated April 2026</b></div>
 
 ---
-#### Professional Summary
+#### PROFESSIONAL SUMMARY
 
 Systems integration and QA specialist with 13+ years of hands-on experience validating complex, multi-component software systems where timing, data integrity, and real-world reliability are non-negotiable. Background spans integration testing across hardware-software boundaries, configuration validation in large-scale deployed environments, and end-to-end troubleshooting across data, network, and application layers. Experienced working directly with engineering to document defects, reproduce failure conditions, and verify fixes under real operational constraints. Deep familiarity with the consequences of system failures in critical public safety contexts.
 
 ---
 
-#### Core Competencies
+#### CORE COMPETANCIES
 
-**Integration Testing** — End-to-end validation of software systems with external data sources, APIs, and hardware interfaces; identifying failure modes across system boundaries
-
-**QA & Defect Tracking** — Development and execution of repeatable test procedures; defect documentation and regression validation following software and configuration changes
-
-**Real-Time Systems** — Testing and validation of time-sensitive systems where data latency, sync integrity, and failure handling have direct operational consequences
-
-**Configuration & Deployment Validation** — Validation of customer-specific configuration across large deployments; identifying environment-specific failures that don't surface in standard test environments
-
-**Cross-Layer Debugging** — Root cause analysis across application, data, network, and integration layers; log inspection, trace analysis, and boundary condition testing
-
-**Technical Documentation** — Clear defect reports, test procedures, and validation documentation written for engineering audiences; strong written communication across functional teams
+**Integration Testing** — End-to-end validation of software systems with external data sources, APIs, and hardware interfaces; identifying failure modes across system boundaries  
+**QA & Defect Tracking** — Development and execution of repeatable test procedures; defect documentation and regression validation following software and configuration changes  
+**Real-Time Systems** — Testing and validation of time-sensitive systems where data latency, sync integrity, and failure handling have direct operational consequences  
+**Configuration & Deployment Validation** — Validation of customer-specific configuration across large deployments; identifying environment-specific failures that don't surface in standard test environments  
+**Cross-Layer Debugging** — Root cause analysis across application, data, network, and integration layers; log inspection, trace analysis, and boundary condition testing  
+**Technical Documentation** — Clear defect reports, test procedures, and validation documentation written for engineering audiences; strong written communication across functional teams  
 
 ---
+#### TECHNICAL TOOLS AND ENVIRONMENT
 
-#### Technical Tools & Environment
-
-**Languages** — Python (test automation, data validation, log parsing); Java (CS coursework foundation)
-
-**Dev Tools** — Git; SVN familiarity; VS Code; Eclipse IDE; Jira for issue tracking and agile workflows
-
-**Networking** — TCP/IP fundamentals; networked device integration; protocol-level troubleshooting
-
-**OS Environments** — Linux (command line, systemd, log inspection); Windows engineering environments
-
-**Virtualization** — VMware-hosted software platform support and testing
-
-**Data** — SQL/MariaDB; REST API integration; JSON; CSV/tabular data validation
+**Languages** — Python (test automation, data validation, log parsing); Java (CS coursework foundation)  
+**Dev Tools** — Git; SVN familiarity; VS Code; Eclipse IDE; Jira for issue tracking and agile workflows  
+**Networking** — TCP/IP fundamentals; networked device integration; protocol-level troubleshooting  
+**OS Environments** — Linux (command line, systemd, log inspection); Windows engineering environments  
+**Virtualization** — VMware-hosted software platform support and testing  
+**Data** — SQL/MariaDB; REST API integration; JSON; CSV/tabular data validation  
 
 ---
-
-#### Experience
+#### EXPERIENCE
 
 **Advanced Environmental Monitoring (AEM) -** ***Integration Specialist (HSE SME)***  
 *Parent company of High Sierra Electronics*  
@@ -80,7 +68,7 @@ Systems integration and QA specialist with 13+ years of hands-on experience vali
 
 ---
 
-#### Education
+#### EDUCATION
 
 **B.S., Computer Science** — California State University, Monterey Bay   
 **Mechatronics Certificate** — Sierra College  
@@ -89,6 +77,6 @@ Systems integration and QA specialist with 13+ years of hands-on experience vali
 
 ---
 
-#### Recognition
+#### RECOGNITION
 
 **Best Overall Capstone** — CSU Monterey Bay Computer Science Program. Recognized for developing a PTZ camera integration system supporting emergency road safety and public works monitoring.
