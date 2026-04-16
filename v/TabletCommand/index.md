@@ -1,13 +1,18 @@
-# Anna Bellizzi
-**Systems Integration & QA Specialist**
+---
+title: Anna Bellizzi | Resume
+---
+<h2>Anna Bellizzi</h2>
 
-Nevada City, CA | [linkedin.com/in/anna-bellizzi](https://linkedin.com/in/anna-bellizzi) | Anna.L.Bellizzi@gmail.com | 415-203-7508
+<strong>Systems Integration & Quality Assurance</strong><br/>
+Nevada City, CA<br/>
+<a href="https://www.linkedin.com/in/anna-bellizzi/">linkedin.com/in/anna-bellizzi</a> | Anna.L.Bellizzi@gmail.com | 415-203-7508
+
+<div class="resume-updated-sticky"><b>Updated April 2026</b></div>
 
 ---
-
 ## Professional Summary
 
-Systems integration and QA specialist with 13+ years of hands-on experience validating complex, multi-component software systems where timing, data integrity, and real-world reliability are non-negotiable. Background spans integration testing across hardware-software boundaries, configuration validation in large-scale deployed environments, and end-to-end troubleshooting across data, network, and application layers. Experienced working directly with engineering and dev teams to document defects, reproduce failure conditions, and verify fixes under real operational constraints. Deep familiarity with the consequences of software failures in critical public safety contexts.
+Systems integration and QA specialist with 13+ years of hands-on experience validating complex, multi-component software systems where timing, data integrity, and real-world reliability are non-negotiable. Background spans integration testing across hardware-software boundaries, configuration validation in large-scale deployed environments, and end-to-end troubleshooting across data, network, and application layers. Experienced working directly with engineering to document defects, reproduce failure conditions, and verify fixes under real operational constraints. Deep familiarity with the consequences of system failures in critical public safety contexts.
 
 ---
 
@@ -21,7 +26,7 @@ Systems integration and QA specialist with 13+ years of hands-on experience vali
 
 **Configuration & Deployment Validation** — Validation of customer-specific configuration across large deployments; identifying environment-specific failures that don't surface in standard test environments
 
-**Cross-Layer Debugging** — Systematic root cause analysis across application, data, network, and integration layers; log inspection, trace analysis, and boundary condition testing
+**Cross-Layer Debugging** — Root cause analysis across application, data, network, and integration layers; log inspection, trace analysis, and boundary condition testing
 
 **Technical Documentation** — Clear defect reports, test procedures, and validation documentation written for engineering audiences; strong written communication across functional teams
 
@@ -78,11 +83,10 @@ Systems integration and QA specialist with 13+ years of hands-on experience vali
 
 **B.S., Computer Science** — California State University, Monterey Bay (2023)
 **Mechatronics Certificate | Electro-Mechanical Skills Certificate** — Sierra College (2017)
-**B.A., Journalism** — Hawaii Pacific University
+**B.A., Journalism** — Hawaii Pacific University (2003)
 
 ---
 
 ## Recognition
 
 **Best Overall Capstone** — CSU Monterey Bay Computer Science Program. Recognized for developing a PTZ camera integration system supporting emergency road safety and public works monitoring.
-```
