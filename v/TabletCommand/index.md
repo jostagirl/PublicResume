@@ -10,13 +10,13 @@ Nevada City, CA<br/>
 <div class="resume-updated-sticky"><b>Updated April 2026</b></div>
 
 ---
-## Professional Summary
+#### Professional Summary
 
 Systems integration and QA specialist with 13+ years of hands-on experience validating complex, multi-component software systems where timing, data integrity, and real-world reliability are non-negotiable. Background spans integration testing across hardware-software boundaries, configuration validation in large-scale deployed environments, and end-to-end troubleshooting across data, network, and application layers. Experienced working directly with engineering to document defects, reproduce failure conditions, and verify fixes under real operational constraints. Deep familiarity with the consequences of system failures in critical public safety contexts.
 
 ---
 
-## Core Competencies
+#### Core Competencies
 
 **Integration Testing** — End-to-end validation of software systems with external data sources, APIs, and hardware interfaces; identifying failure modes across system boundaries
 
@@ -32,7 +32,7 @@ Systems integration and QA specialist with 13+ years of hands-on experience vali
 
 ---
 
-## Technical Tools & Environment
+#### Technical Tools & Environment
 
 **Languages** — Python (test automation, data validation, log parsing); Java (CS coursework foundation)
 
@@ -48,11 +48,11 @@ Systems integration and QA specialist with 13+ years of hands-on experience vali
 
 ---
 
-## Experience
+#### Experience
 
-### Integration Specialist (HSE SME)
-**Advanced Environmental Monitoring (AEM)** — formerly High Sierra Electronics
-*Hybrid / Nevada City, CA | Oct 2023 – Dec 2025*
+**Advanced Environmental Monitoring (AEM) -** ***Integration Specialist (HSE SME)***  
+*Parent company of High Sierra Electronics*  
+***Hybrid / Remote in Nevada City | Oct 2023 – Dec 2025***
 
 - Validated integration behavior of software-controlled systems across hundreds of production deployments, testing data flow, configuration accuracy, and real-time telemetry against expected system state.
 - Designed and executed repeatable test procedures to verify system behavior before release and after software updates, catching regressions before they reached the field.
@@ -61,9 +61,8 @@ Systems integration and QA specialist with 13+ years of hands-on experience vali
 - Served as the engineering team's primary resource for legacy system behavior during platform transitions, documenting undocumented edge cases and validating that new releases preserved existing functionality.
 - Collaborated with software, firmware, and hardware engineering teams to reproduce reported failures, verify fixes, and confirm regression closure.
 
-### Systems Integration Specialist (Technical Lead)
-**High Sierra Electronics, Inc.**
-*Grass Valley, CA | May 2017 – Oct 2023*
+**High Sierra Electronics, Inc. -** ***Systems Integration Specialist (Technical Lead)***  
+***Grass Valley, CA | May 2017 – Oct 2023***
 
 - Led integration testing and release validation for sensor-based systems with real-time telemetry, configuration dependencies, and network communication across large deployed fleets.
 - Developed and maintained comprehensive test procedures for hardware-software integration, improving first-time deployment success rates by approximately 75%.
@@ -72,9 +71,8 @@ Systems integration and QA specialist with 13+ years of hands-on experience vali
 - Led hardware refresh initiative: identified failure points, validated replacement components against existing software integration requirements, and produced updated test and integration procedures.
 - Authored release notes, validation documentation, and field procedures that served as the primary reference for deployment and long-term system support.
 
-### Data Services Technician
-**High Sierra Electronics, Inc.**
-*Grass Valley, CA | Sep 2012 – May 2017*
+**High Sierra Electronics, Inc. -** ***Data Services Technician***  
+***Grass Valley, CA | Sep 2012 – May 2017***
 
 - Maintained and supported hosted software platforms and internal IT infrastructure used by engineering, operations, and customer-facing services.
 - Provided Tier 2 technical support and troubleshooting across application, data, and network layers in time-sensitive operational environments.
@@ -82,14 +80,15 @@ Systems integration and QA specialist with 13+ years of hands-on experience vali
 
 ---
 
-## Education
+#### Education
 
-**B.S., Computer Science** — California State University, Monterey Bay (2023)
-**Mechatronics Certificate | Electro-Mechanical Skills Certificate** — Sierra College (2017)
-**B.A., Journalism** — Hawaii Pacific University (2003)
+**B.S., Computer Science** — California State University, Monterey Bay   
+**Mechatronics Certificate** — Sierra College  
+**Electro-Mechanical Skills Certificate** — Sierra College  
+**B.A., Journalism** — Hawaii Pacific University 
 
 ---
 
-## Recognition
+#### Recognition
 
 **Best Overall Capstone** — CSU Monterey Bay Computer Science Program. Recognized for developing a PTZ camera integration system supporting emergency road safety and public works monitoring.
