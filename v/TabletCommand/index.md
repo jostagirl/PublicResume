@@ -12,7 +12,7 @@ Nevada City, CA<br/>
 ---
 #### PROFESSIONAL SUMMARY
 
-Systems integration and QA specialist with 13+ years of hands-on experience validating complex, multi-component software systems where timing, data integrity, and real-world reliability are non-negotiable. Background spans integration testing across hardware-software boundaries, configuration validation in large-scale deployed environments, and end-to-end troubleshooting across data, network, and application layers. Experienced working directly with engineering to document defects, reproduce failure conditions, and verify fixes under real operational constraints. Deep familiarity with the consequences of system failures in critical public safety contexts.
+Systems integration and QA specialist with 13+ years of hands-on experience validating complex, multi-component software systems where timing, data integrity, and real-world reliability are non-negotiable. Background spans integration testing across hardware-software boundaries, configuration validation in large-scale deployed environments, and end-to-end troubleshooting across data, network, and application layers. Experienced supporting both pre-release validation cycles and post-deployment production issues, and working directly with engineering to document defects, reproduce failure conditions, and verify fixes under real operational constraints. Deep familiarity with the consequences of system failures in critical public safety contexts. 
 
 ---
 
