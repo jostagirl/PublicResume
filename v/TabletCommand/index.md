@@ -12,7 +12,7 @@ Nevada City, CA<br/>
 ---
 #### PROFESSIONAL SUMMARY
 
-Systems integration and QA specialist with 13+ years of hands-on experience validating complex, multi-component software systems where timing, data integrity, and real-world reliability are non-negotiable. Background spans integration testing across hardware-software boundaries, configuration validation in large-scale deployed environments, and end-to-end troubleshooting across data, network, and application layers. Experienced supporting both pre-release validation cycles and post-deployment production issues, and working directly with engineering to document defects, reproduce failure conditions, and verify fixes under real operational constraints. Deep familiarity with the consequences of system failures in critical public safety contexts. 
+Systems integration and QA specialist with 13+ years of hands-on experience validating complex, multi-component software systems where timing, data integrity, and real-world reliability are non-negotiable. Background spans integration testing across hardware-software boundaries, configuration validation in large-scale deployed environments, and end-to-end troubleshooting across data, network, and application layers. Experienced supporting both pre-release validation cycles and post-deployment production issues, and working directly with engineering to document defects, reproduce failure conditions, and verify fixes under real operational constraints. Deep familiarity with the consequences of system failures in critical public safety contexts. Currently extending this work into personal AI projects, applying the same integration and governance principles to locally-deployed LLM applications.
 
 ---
 
@@ -34,6 +34,7 @@ Systems integration and QA specialist with 13+ years of hands-on experience vali
 **OS Environments** — Linux (command line, systemd, log inspection); Windows engineering environments  
 **Virtualization** — VMware-hosted software platform support and testing  
 **Data** — SQL/MariaDB; REST API integration; JSON; CSV/tabular data validation  
+**AI/ML** — Hands-on study and prototyping of LLM integration patterns, including a from-scratch RAG pipeline built in Python using the OpenAI SDK
 
   
 ---
@@ -81,3 +82,10 @@ Systems integration and QA specialist with 13+ years of hands-on experience vali
 #### RECOGNITION
 
 **Best Overall Capstone** — CSU Monterey Bay Computer Science Program. Recognized for developing a PTZ camera integration system supporting emergency road safety and public works monitoring.
+
+---
+#### PERSONAL PROJECTS
+
+**Personal Financial Intelligence Tool** — Locally-hosted RAG web application running on a Raspberry Pi 4. Python/Flask backend aggregates live data from multiple financial sources (Notion API, Personal Budget, Financial Institutions) and passes assembled context to GPT-4o for plain-language reporting. Key architectural decision: identified that LLM-generated financial calculations produced inconsistent results due to probabilistic output; redesigned with Python handling all computation and the LLM handling interpretation only — clean separation between deterministic calculation and probabilistic language generation. Stack: Python/Flask, OpenAI API, systemd, GitHub.
+
+**AI Integration Primer & RAG Prototype** — Structured self-directed study of LLM integration architecture, culminating in a from-scratch RAG pipeline built in Python using the OpenAI SDK. No frameworks — raw mechanics only. Implemented retrieval, embedding, cosine similarity search, and a four-layer governance system including evidence thresholds, query ambiguity detection, truncation detection, and output confidence flagging.
