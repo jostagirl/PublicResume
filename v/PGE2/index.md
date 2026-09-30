@@ -3,7 +3,7 @@ title: Anna Bellizzi | Resume
 ---
 <h2>Anna Bellizzi</h2>
 
-<strong>Systems & Program Professional</strong><br/> Process Improvement • Cross-Functional Coordination • Technical Documentationbr/>
+<strong>Systems & Program Professional</strong><br/> Process Improvement • Cross-Functional Coordination • Technical Documentation<br/>
 Nevada City, CA<br/>
 <a href="https://www.linkedin.com/in/anna-bellizzi/">linkedin.com/in/anna-bellizzi</a> | Anna.L.Bellizzi@gmail.com | 415-203-7508
 
@@ -24,8 +24,9 @@ Program & project management • Program coordination • Business requirements 
 ---
 
 ### PROFESSIONAL EXPERIENCE
-**Western Weather Group -** ***Environmental Systems Engineer***  
-***Remote | Nevada City, CA | May 2026 – Present***
+**Western Weather Group -** ***Environmental Systems Engineer***
+*Weather monitoring and forecasting company serving electric utilities, agriculture, and other weather-sensitive industries*  
+***Chico,CA - Remote in Nevada City, CA | May 2026 – Present***
  
 • Created the release-readiness checklist for a new product release, defining the documentation and deliverables a complete release requires where no standard process previously existed  
 • Authored a general test procedure for out-of-the-box and usability testing prior to release, giving the team a repeatable pre-release check  
