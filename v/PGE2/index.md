@@ -50,7 +50,7 @@ Retained as a subject matter expert for legacy High Sierra flood telemetry syste
 
 ---
 
-**High Sierra Electronics, Inc. -** ***Systems Integration Specialist (Technical Lead)*** 
+**High Sierra Electronics, Inc. -** ***Systems Integration Specialist (Technical Lead)***  
 *Designer and manufacturer of flood-warning systems for municipalities, water agencies, and public-safety organizations*   
 ***Grass Valley, CA | May 2017 – Oct 2023***
 
