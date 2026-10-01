@@ -17,6 +17,12 @@ Systems and process professional with 13+ years of program and project coordinat
 
 ---
 
+### CORE COMPETENCIES
+ 
+Program & project management • Program coordination • Business requirements • Process improvement & documentation • Work & resource planning • Forecasting & spares/inventory planning • Status reporting • Issue, risk & decision tracking • Stakeholder engagement • Data analysis & reporting • Quotes & RMA administration • Document control • Executive and customer communication • Training & adoption • Microsoft 365 (Excel, PowerPoint, Word) • Jira • Confluence • Google Workspace • SQL • Python (data analysis)
+ 
+---
+
 ### PROFESSIONAL EXPERIENCE
 **Western Weather Group -** ***Environmental Systems Engineer***  
 *Weather monitoring and forecasting company serving electric utilities, agriculture, and other weather-sensitive industries*  
@@ -69,12 +75,6 @@ Hired to support the company’s centralized environmental data platform and tel
 • Led company-wide migration to Google Workspace in under a month (researched, tested, and executed)  
 • Served as sole IT administrator for engineering, operations, and remote staff  
 
----
-
-### CORE COMPETENCIES
- 
-Program & project management • Program coordination • Business requirements • Process improvement & documentation • Work & resource planning • Forecasting & spares/inventory planning • Status reporting • Issue, risk & decision tracking • Stakeholder engagement • Data analysis & reporting • Quotes & RMA administration • Document control • Executive and customer communication • Training & adoption • Microsoft 365 (Excel, PowerPoint, Word) • Jira • Confluence • Google Workspace • SQL • Python (data analysis)
- 
 ---
 
 #### Independent Projects
