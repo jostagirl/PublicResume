@@ -24,15 +24,15 @@ Systems engineer with 13+ years supporting distributed environmental monitoring,
 
 Environmental systems engineer within the R&D team, supporting deployed utility weather station networks while contributing to new product development, release validation, and documentation standards.  
 
-### Product Rollout & Infrastructure Coordination  
+#### Product Rollout & Infrastructure Coordination  
 • Own the Remote Management System (RMS) portion of a new cellular modem product release, defining user management and group structure and training technical support staff on the platform
 • Coordinate and sequence infrastructure tasks across internal IT, software development, and external carriers (Verizon, AT&T) to enable devices on a private APN to reach the public RMS host
 
-### Release Validation & Process Development  
+#### Release Validation & Process Development  
 • Designed out-of-box experience (OOBE) testing for pre-release products, authoring the setup guide, test procedure, and results form used to validate final-round usability with an inexperienced user
 • Drove definition of a datalogger program release process currently advancing through company approval under management ownership
 
-### Field Systems Support & Documentation  
+#### Field Systems Support & Documentation  
 • Support, configure, and test deployed weather station and telemetry systems for utility customers nationwide including major California utilities, providing escalation support for communication and hardware issues and modifying existing datalogger programs
 • Authoring customer installation guides and technical documentation while working with management to replace custom per-customer manuals with standardized product-level documentation
 
