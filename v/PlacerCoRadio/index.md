@@ -23,34 +23,26 @@ Systems engineer with 13+ years supporting distributed environmental monitoring,
 ***Remote in Nevada City | May 2026 – Present***  
 
 Environmental systems engineer within the R&D team, supporting deployed utility weather station networks while contributing to new product development, release validation, and documentation standards.  
+  
+• Own the Remote Management System (RMS) portion of a new cellular modem product release, defining user management and group structure and training technical support staff on the platform.  
+• Coordinate and sequence infrastructure tasks across internal IT, software development, and external carriers (Verizon, AT&T) to enable devices on a private APN to reach the public RMS host.  
+• Designed out-of-box experience (OOBE) testing for pre-release products, authoring the setup guide, test procedure, and results form used to validate final-round usability with an inexperienced user.  
+• Drove definition of a datalogger program release process currently advancing through company approval under management ownership.  
+• Support, configure, and test deployed weather station and telemetry systems for utility customers nationwide including major California utilities, providing escalation support for communication and hardware issues and modifying existing datalogger programs.  
+• Authoring customer installation guides and technical documentation while working with management to replace custom per-customer manuals with standardized product-level documentation. 
 
-#### Product Rollout & Infrastructure Coordination  
-• Own the Remote Management System (RMS) portion of a new cellular modem product release, defining user management and group structure and training technical support staff on the platform
-• Coordinate and sequence infrastructure tasks across internal IT, software development, and external carriers (Verizon, AT&T) to enable devices on a private APN to reach the public RMS host
-
-#### Release Validation & Process Development  
-• Designed out-of-box experience (OOBE) testing for pre-release products, authoring the setup guide, test procedure, and results form used to validate final-round usability with an inexperienced user
-• Drove definition of a datalogger program release process currently advancing through company approval under management ownership
-
-#### Field Systems Support & Documentation  
-• Support, configure, and test deployed weather station and telemetry systems for utility customers nationwide including major California utilities, providing escalation support for communication and hardware issues and modifying existing datalogger programs
-• Authoring customer installation guides and technical documentation while working with management to replace custom per-customer manuals with standardized product-level documentation
+---
 
 **Advanced Environmental Monitoring (AEM) -** ***Integration Specialist (HSE SME)***  
 *Parent company of High Sierra Electronics*  
 ***Hybrid / Remote in Nevada City | Oct 2023 – Dec 2025***
 
 Retained as a subject matter expert for legacy High Sierra flood telemetry systems following acquisition. Served as escalation point for complex failures affecting municipal flood warning infrastructure.
-
-#### Technical Escalation & Operational Recovery  
+ 
 • Acted as go-to escalation resource for cross-layer failures spanning ALERT / ALERT2 telemetry networks, base stations, RF transport, cellular backhaul, and centralized data systems  
 • Led recovery of a 300+ site municipal flood warning network operating at ~30% capacity, restoring operability to ~70% through telemetry analysis, configuration auditing, and coordinated field remediation  
 • Developed structured deployment plans and diagnostic punchlists for remote field crews based on live telemetry system behavior  
 • Forecasted component replacement needs using system data trends to improve repair efficiency and reduce unnecessary field visits  
-
-#### Configuration Governance & System Integrity  
-• Identified configuration drift and documentation inconsistencies across long-lived telemetry deployments where multiple hardware generations were in operation  
-• Recognized and addressed template divergence in distributed monitoring systems where site-specific program modifications accumulate over time  
 • Functioned as system-level release gate during manufacturing cycles, ensuring integrated validation prior to deployment  
 • Preserved architectural continuity across deployed Low Water Crossing systems during organizational transition  
 
@@ -60,13 +52,10 @@ Retained as a subject matter expert for legacy High Sierra flood telemetry syste
 ***Grass Valley, CA | May 2017 – Oct 2023***
 
 Advanced into a systems engineering role bridging hardware, telemetry infrastructure, and data systems across distributed flood monitoring networks.
-
-#### Network Architecture & Controller Integration  
+  
 • Configured and validated distributed ALERT2 Master / Remote controller hierarchies across several multi-site municipal monitoring systems.   
 • Defined reporting cadence (timed, event-driven, command-driven) to ensure reliable telemetry propagation to base stations and centralized monitoring systems  
 • Conducted system-level troubleshooting across transmitters, RF repeaters, cellular backhaul, municipal networks, and centralized data workflows  
-
-#### Engineering & Product Contribution 
 • Led hardware refresh initiative for camera add-on product under senior engineering oversight, identifying replacement components and modifying controller programming to support new integration requirements  
 • Updated technical documentation, test procedures, and release artifacts through formal document control processes  
 • Administered and structured the RMA program, gaining hands-on diagnostic experience with a wide range of deployed instrumentation  
@@ -83,12 +72,9 @@ Hired to support the company’s centralized environmental data platform and tel
 • Worked directly with monitoring customers to interpret telemetry data, troubleshoot station behavior, and verify system performance through centralized monitoring software  
 • Configured and tuned alarm thresholds and notification workflows within the central monitoring platform to support flood warning operations  
 • Coordinated with remote field technicians to deploy targeted remediation based on data-driven diagnostics  
-
-#### IT & Infrastructure 
 • Managed company network infrastructure including firewall configuration, routing, and remote access  
 • Executed ISP migrations and transitioned internal systems to Google Workspace  
 • Served as sole IT administrator supporting engineering, operations, and remote staff  
-
 
 ---
 
